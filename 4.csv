@@ -1,0 +1,189 @@
+07/26/2014,London,Belfast,error
+07/29/2014,London,Belfast,error
+08/03/2014,London,Belfast,error
+07/26/2014,London,London,error
+07/29/2014,London,London,error
+08/03/2014,London,London,error
+07/26/2014,Birmingham,Belfast,error
+07/29/2014,Birmingham,Belfast,error
+08/03/2014,Birmingham,Belfast,error
+07/26/2014,Manchester,London,8:15AM,Manchester Picc,10:24AM,London Euston,2hr9min,VT758700,Economy,from,$131,View,Premier,from,$100,View
+07/26/2014,Manchester,London,8:35AM,Manchester Picc,10:43AM,London Euston,2hr8min,VT759700,Economy,from,$131,View,Premier,from,$100,View
+07/26/2014,Manchester,London,8:55AM,Manchester Picc,11:08AM,London Euston,2hr13min,VT760700,Economy,from,$131,View,Premier,from,$127,View
+07/26/2014,Manchester,London,9:15AM,Manchester Picc,11:24AM,London Euston,2hr9min,VT761700,Economy,from,$67,View,Premier,from,$100,View
+07/26/2014,Manchester,London,9:35AM,Manchester Picc,11:43AM,London Euston,2hr8min,VT762700,Economy,from,$131,View,Premier,from,$100,View
+07/29/2014,Manchester,London,8:15AM,Manchester Picc,10:24AM,London Euston,2hr9min,VT755000,Economy,from,$212,View,Premier,from,$262,View
+07/29/2014,Manchester,London,8:35AM,Manchester Picc,10:43AM,London Euston,2hr8min,VT755500,Economy,from,$212,View,Premier,from,$262,View
+07/29/2014,Manchester,London,8:55AM,Manchester Picc,11:08AM,London Euston,2hr13min,VT756000,Economy,from,$212,View,Premier,from,$262,View
+07/29/2014,Manchester,London,9:15AM,Manchester Picc,11:24AM,London Euston,2hr9min,VT756500,Economy,from,$212,View,Premier,from,$262,View
+07/29/2014,Manchester,London,9:35AM,Manchester Picc,11:43AM,London Euston,2hr8min,VT757000,Economy,from,$148,View,Premier,from,$166,View
+08/03/2014,Manchester,London,8:05AM,Manchester Picc,10:58AM,London Euston,2hr53min,VT750100,Economy,from,$67,View,Premier,from,$100,View
+08/03/2014,Manchester,London,8:20AM,Manchester Picc,11:02AM,London Euston,2hr42min,VT751100,Economy,from,$67,View,Premier,from,$100,View
+08/03/2014,Manchester,London,8:27AM,Manchester Picc,9:01AM,Crewe,0hr34min,XC358100,TRANSFER: 12 min,9:13AM,Crewe,11:37AM,London Euston,2hr24min,VT853100,Economy,from,$71,View,Premier,from,$103,View
+08/03/2014,Manchester,London,9:20AM,Manchester Picc,12:09PM,London Euston,2hr49min,VT752100,Economy,from,$67,View,Premier,from,$100,View
+08/03/2014,Manchester,London,9:27AM,Manchester Picc,10:26AM,Stafford,0hr59min,XC360100,TRANSFER: 8 min,10:34AM,Stafford,12:32PM,London Euston,1hr58min,VT856100,Economy,from,$71,View,Premier,from,$169,View
+07/26/2014,Newcastle,London,8:03AM,Newcastle,11:45AM,London King S CRO,3hr42min,GR514700,Economy,from,$116,View,Premier,from,$184,View
+07/26/2014,Newcastle,London,9:00AM,Newcastle,9:57AM,York,0hr57min,GR518700,TRANSFER: 15 min,10:12AM,York,12:22PM,London King S CRO,2hr10min,GC852700,Economy,from,$227,View,Comfort,from,$227,View,Premier,from,$391,View
+07/26/2014,Newcastle,London,9:00AM,Newcastle,12:56PM,London King S CRO,3hr56min,GR518700,Economy,from,$116,View,Premier,from,$227,View
+07/26/2014,Newcastle,London,9:10AM,Newcastle,10:39AM,Leeds,1hr29min,TP561300,TRANSFER: 26 min,11:05AM,Leeds,1:29PM,London King S CRO,2hr24min,GR134700,Economy,from,$227,View,Comfort,from,$391,View,Premier,from,$391,View
+07/26/2014,Newcastle,London,9:35AM,Newcastle,11:20AM,Sheffield,1hr45min,XC262700,TRANSFER: 9 min,11:29AM,Sheffield,1:30PM,London St Pancras,2hr1min,EM124000,Economy,from,$227,View,Premier,from,$391,View
+07/29/2014,Newcastle,London,8:25AM,Newcastle,11:42AM,London King S CRO,3hr17min,GR516000,Economy,from,$221,View,Premier,from,$389,View
+07/29/2014,Newcastle,London,8:59AM,Newcastle,11:51AM,London King S CRO,2hr52min,GR518000,Economy,from,$116,View,Premier,from,$332,View
+07/29/2014,Newcastle,London,9:10AM,Newcastle,10:14AM,York,1hr4min,TP511300,TRANSFER: 13 min,10:27AM,York,12:30PM,London King S CRO,2hr3min,GC852000,Economy,from,$227,View,Comfort,from,$391,View
+07/29/2014,Newcastle,London,9:30AM,Newcastle,12:43PM,London King S CRO,3hr13min,GR522000,Economy,from,$116,View,Premier,from,$227,View
+07/29/2014,Newcastle,London,10:00AM,Newcastle,12:51PM,London King S CRO,2hr51min,GR524000,Economy,from,$116,View,Premier,from,$227,View
+08/03/2014,Newcastle,London,8:50AM,Newcastle,11:55AM,London King S CRO,3hr5min,GR518100,Economy,from,$116,View,Premier,from,$149,View
+08/03/2014,Newcastle,London,9:25AM,Newcastle,12:42PM,London King S CRO,3hr17min,GR322100,Economy,from,$116,View,Premier,from,$149,View
+08/03/2014,Newcastle,London,9:35AM,Newcastle,10:31AM,York,0hr56min,XC163100,TRANSFER: 21 min,10:52AM,York,12:43PM,London King S CRO,1hr51min,GC850100,Economy,from,$227,View,Comfort,from,$227,View,Premier,from,$391,View
+08/03/2014,Newcastle,London,10:00AM,Newcastle,12:55PM,London King S CRO,2hr55min,GR324100,Economy,from,$116,View,Premier,from,$149,View
+08/03/2014,Newcastle,London,10:29AM,Newcastle,1:42PM,London King S CRO,3hr13min,GR526100,Economy,from,$116,View,Premier,from,$184,View
+07/26/2014,Edinburgh,Aberdeen,8:28AM,Edinburgh,10:54AM,Aberdeen,2hr26min,SR030300,Economy,from,$63,View,Comfort,from,$143,View
+07/26/2014,Edinburgh,Aberdeen,9:28AM,Edinburgh,11:51AM,Aberdeen,2hr23min,SR030400,Economy,from,$63,View,Comfort,from,$143,View
+07/26/2014,Edinburgh,Aberdeen,10:28AM,Edinburgh,1:03PM,Aberdeen,2hr35min,GR604700,Economy,from,$37,View,Premier,from,$49,View
+07/26/2014,Edinburgh,Aberdeen,11:28AM,Edinburgh,1:50PM,Aberdeen,2hr22min,SR030500,Economy,from,$63,View,Comfort,from,$143,View
+07/29/2014,Edinburgh,Aberdeen,8:28AM,Edinburgh,10:54AM,Aberdeen,2hr26min,SR030300,Economy,from,$46,View,Comfort,from,$143,View
+07/29/2014,Edinburgh,Aberdeen,9:29AM,Edinburgh,11:46AM,Aberdeen,2hr17min,SR030400,Economy,from,$46,View,Comfort,from,$143,View
+07/29/2014,Edinburgh,Aberdeen,10:28AM,Edinburgh,1:03PM,Aberdeen,2hr35min,GR604000,Economy,from,$25,View,Premier,from,$43,View
+07/29/2014,Edinburgh,Aberdeen,11:28AM,Edinburgh,1:50PM,Aberdeen,2hr22min,SR030500,Economy,from,$46,View,Comfort,from,$143,View
+08/03/2014,Edinburgh,Aberdeen,8:04AM,Edinburgh,10:29AM,Aberdeen,2hr25min,XC143100,Economy,from,$61,View,Premier,from,$118,View
+08/03/2014,Edinburgh,Aberdeen,9:10AM,Edinburgh,11:47AM,Aberdeen,2hr37min,GR600100,Economy,from,$25,View,Premier,from,$43,View
+08/03/2014,Edinburgh,Aberdeen,9:15AM,Edinburgh,12:05PM,Aberdeen,2hr50min,SR036000,Economy,from,$46,View,Comfort,from,$143,View
+08/03/2014,Edinburgh,Aberdeen,10:50AM,Edinburgh,1:20PM,Aberdeen,2hr30min,SR035102,Economy,from,$63,View,Comfort,from,$143,View
+08/03/2014,Edinburgh,Aberdeen,11:34AM,Edinburgh,12:55PM,Dundee,1hr21min,SR115100,TRANSFER: 15 min,1:10PM,Dundee,2:22PM,Aberdeen,1hr12min,SR025200,Economy,from,$63,View,Comfort,from,$143,View
+07/26/2014,London,Leeds,error
+07/29/2014,London,Leeds,8:03AM,London King S CRO,10:16AM,Leeds,2hr13min,GR208000,Economy,from,$93,View,Premier,from,$161,View
+07/29/2014,London,Leeds,8:35AM,London King S CRO,10:48AM,Leeds,2hr13min,GR210000,Economy,from,$74,View,Premier,from,$128,View
+07/29/2014,London,Leeds,9:03AM,London King S CRO,11:16AM,Leeds,2hr13min,GR212000,Economy,from,$74,View,Premier,from,$128,View
+07/29/2014,London,Leeds,9:35AM,London King S CRO,11:48AM,Leeds,2hr13min,GR214000,Economy,from,$58,View,Premier,from,$92,View
+07/29/2014,London,Leeds,10:03AM,London King S CRO,12:16PM,Leeds,2hr13min,GR216000,Economy,from,$58,View,Premier,from,$92,View
+08/03/2014,London,Leeds,9:03AM,London King S CRO,11:26AM,Leeds,2hr23min,GR212100,Economy,from,$58,View,Premier,from,$92,View
+08/03/2014,London,Leeds,9:30AM,London King S CRO,11:32AM,York,2hr2min,GR618100,TRANSFER: 9 min,11:41AM,York,12:05PM,Leeds,0hr24min,XC165100,Economy,from,$93,View,Premier,from,$243,View
+08/03/2014,London,Leeds,9:48AM,London King S CRO,11:36AM,York,1hr48min,GC800100,TRANSFER: 9 min,11:45AM,York,12:08PM,Leeds,0hr23min,TP120900,Economy,from,$182,View,Comfort,from,$342,View
+08/03/2014,London,Leeds,10:03AM,London King S CRO,12:21PM,Leeds,2hr18min,GR216100,Economy,from,$58,View,Premier,from,$128,View
+08/03/2014,London,Leeds,10:30AM,London King S CRO,12:31PM,York,2hr1min,GR622100,TRANSFER: 10 min,12:41PM,York,1:04PM,Leeds,0hr23min,XC167100,Economy,from,$93,View,Premier,from,$243,View
+07/26/2014,London,Bradford,8:03AM,London King S CRO,10:24AM,Leeds,2hr21min,GR208700,TRANSFER: 11 min,10:35AM,Leeds,10:55AM,Bradford Intercha,0hr20min,NT266000,Economy,from,$75,View,Comfort,from,$75,View,Premier,from,$131,View
+07/26/2014,London,Bradford,9:03AM,London King S CRO,11:25AM,Leeds,2hr22min,GR212700,TRANSFER: 10 min,11:35AM,Leeds,11:55AM,Bradford Intercha,0hr20min,NT266200,Economy,from,$95,View,Comfort,from,$95,View,Premier,from,$131,View
+07/26/2014,London,Bradford,9:30AM,London King S CRO,11:04AM,Doncaster,1hr34min,GR618700,TRANSFER: 22 min,11:26AM,Doncaster,12:14PM,Leeds,0hr48min,NT897400,TRANSFER: 21 min,12:35PM,Leeds,12:55PM,Bradford Intercha,0hr20min,NT266500,Economy,from,$95,View,Comfort,from,$95,View,Premier,from,$345,View
+07/29/2014,London,Bradford,8:03AM,London King S CRO,10:16AM,Leeds,2hr13min,GR208000,TRANSFER: 10 min,10:26AM,Leeds,10:37AM,Shipley,0hr11min,NT500800,TRANSFER: 7 min,10:44AM,Shipley,10:53AM,Bradford Forster SQU,0hr9min,NT442300,Economy,from,$95,View,Comfort,from,$95,View,Premier,from,$162,View
+07/29/2014,London,Bradford,8:03AM,London King S CRO,10:16AM,Leeds,2hr13min,GR208000,TRANSFER: 19 min,10:35AM,Leeds,10:55AM,Bradford Intercha,0hr20min,NT697200,Economy,from,$95,View,Comfort,from,$95,View,Premier,from,$162,View
+07/29/2014,London,Bradford,8:35AM,London King S CRO,10:48AM,Leeds,2hr13min,GR210000,TRANSFER: 17 min,11:05AM,Leeds,11:24AM,Bradford Intercha,0hr19min,NT341200,Economy,from,$75,View,Comfort,from,$75,View,Premier,from,$131,View
+07/29/2014,London,Bradford,9:03AM,London King S CRO,11:16AM,Leeds,2hr13min,GR212000,TRANSFER: 10 min,11:26AM,Leeds,11:38AM,Shipley,0hr12min,NT502300,TRANSFER: 6 min,11:44AM,Shipley,11:53AM,Bradford Forster SQU,0hr9min,NT443700,Economy,from,$75,View,Comfort,from,$75,View,Premier,from,$131,View
+07/29/2014,London,Bradford,9:03AM,London King S CRO,11:16AM,Leeds,2hr13min,GR212000,TRANSFER: 19 min,11:35AM,Leeds,11:55AM,Bradford Intercha,0hr20min,NT697400,Economy,from,$75,View,Comfort,from,$75,View,Premier,from,$131,View
+08/03/2014,London,Bradford,9:03AM,London King S CRO,11:26AM,Leeds,2hr23min,GR212100,TRANSFER: 15 min,11:41AM,Leeds,12:01PM,Bradford Forster SQU,0hr20min,NT308800,Economy,from,$58,View,Comfort,from,$58,View,Premier,from,$93,View
+08/03/2014,London,Bradford,9:48AM,London King S CRO,11:36AM,York,1hr48min,GC800100,TRANSFER: 9 min,11:45AM,York,12:08PM,Leeds,0hr23min,TP120900,TRANSFER: 17 min,12:25PM,Leeds,12:45PM,Bradford Intercha,0hr20min,NT329600,Economy,from,$185,View,Comfort,from,$345,View
+08/03/2014,London,Bradford,10:03AM,London King S CRO,12:21PM,Leeds,2hr18min,GR216100,TRANSFER: 20 min,12:41PM,Leeds,1:01PM,Bradford Forster SQU,0hr20min,NT309000,Economy,from,$58,View,Comfort,from,$58,View,Premier,from,$131,View
+08/03/2014,London,Bradford,10:30AM,London King S CRO,12:31PM,York,2hr1min,GR622100,TRANSFER: 10 min,12:41PM,York,1:04PM,Leeds,0hr23min,XC167100,TRANSFER: 21 min,1:25PM,Leeds,1:45PM,Bradford Intercha,0hr20min,NT320000,Economy,from,$95,View,Comfort,from,$95,View,Premier,from,$245,View
+08/03/2014,London,Bradford,11:03AM,London King S CRO,1:25PM,Leeds,2hr22min,GR222100,TRANSFER: 16 min,1:41PM,Leeds,2:01PM,Bradford Forster SQU,0hr20min,NT309200,Economy,from,$75,View,Comfort,from,$75,View,Premier,from,$131,View
+07/26/2014,Bristol,Aberdeen,8:30AM,Bristol Temple ME,9:55AM,Birmingham New ST,1hr25min,XC108700,TRANSFER: 20 min,10:15AM,Birmingham New ST,2:15PM,Haymarket,4hr0min,VT302700,TRANSFER: 18 min,2:33PM,Haymarket,5:06PM,Aberdeen,2hr33min,GR618700,Economy,from,$373,View,Premier,from,$865,View
+07/26/2014,Bristol,Aberdeen,8:30AM,Bristol Temple ME,3:04PM,Edinburgh,6hr34min,XC108700,TRANSFER: 24 min,3:28PM,Edinburgh,5:53PM,Aberdeen,2hr25min,SR030800,Economy,from,$373,View,Comfort,from,$373,View,Premier,from,$865,View
+07/26/2014,Bristol,Aberdeen,9:30AM,Bristol Temple ME,4:04PM,Edinburgh,6hr34min,XC110700,TRANSFER: 24 min,4:28PM,Edinburgh,6:57PM,Aberdeen,2hr29min,SR030900,Economy,from,$373,View,Comfort,from,$373,View,Premier,from,$865,View
+07/26/2014,Bristol,Aberdeen,10:30AM,Bristol Temple ME,11:55AM,Birmingham New ST,1hr25min,XC112700,TRANSFER: 20 min,12:15PM,Birmingham New ST,4:16PM,Haymarket,4hr1min,VT306700,TRANSFER: 17 min,4:33PM,Haymarket,6:57PM,Aberdeen,2hr24min,SR030900,Economy,from,$373,View,Comfort,from,$373,View,Premier,from,$865,View
+07/29/2014,Bristol,Aberdeen,error
+08/03/2014,Bristol,Aberdeen,9:03AM,Bristol Temple ME,4:02PM,Edinburgh,6hr59min,XC113100,5:05PM,Edinburgh,7:35PM,Aberdeen,2hr30min,SR035300,Economy,from,$373,View,Comfort,from,$373,View,Premier,from,$865,View
+08/03/2014,Bristol,Aberdeen,10:02AM,Bristol Temple ME,11:41AM,Birmingham New ST,1hr39min,XC115100,12:20PM,Birmingham New ST,4:19PM,Edinburgh,3hr59min,VT105100,5:05PM,Edinburgh,7:35PM,Aberdeen,2hr30min,SR035300,Economy,from,$373,View,Comfort,from,$373,View,Premier,from,$865,View
+08/03/2014,Bristol,Aberdeen,10:30AM,Bristol Temple ME,8:42PM,Aberdeen,10hr12min,XC114100,Economy,from,$182,View,Premier,from,$459,View
+07/26/2014,Humberside,Aberdeen,error
+07/29/2014,Humberside,Aberdeen,error
+08/03/2014,Humberside,Aberdeen,error
+07/26/2014,Edinburgh,Cardiff,8:52AM,Edinburgh,11:58AM,Crewe,3hr6min,VT360700,TRANSFER: 10 min,12:08PM,Crewe,2:53PM,Cardiff Central,2hr45min,AW113900,Economy,from,$312,View,Comfort,from,$312,View,Premier,from,$705,View
+07/26/2014,Edinburgh,Cardiff,9:08AM,Edinburgh,2:04PM,Birmingham New ST,4hr56min,XC165700,TRANSFER: 26 min,2:30PM,Birmingham New ST,4:25PM,Cardiff Central,1hr55min,XC568700,Economy,from,$244,View,Premier,from,$364,View
+07/26/2014,Edinburgh,Cardiff,10:52AM,Edinburgh,1:58PM,Crewe,3hr6min,VT364700,TRANSFER: 10 min,2:08PM,Crewe,4:53PM,Cardiff Central,2hr45min,AW114100,Economy,from,$312,View,Comfort,from,$312,View,Premier,from,$705,View
+07/29/2014,Edinburgh,Cardiff,error
+08/03/2014,Edinburgh,Cardiff,10:51AM,Edinburgh,1:59PM,Crewe,3hr8min,VT350100,TRANSFER: 14 min,2:13PM,Crewe,4:52PM,Cardiff Central,2hr39min,AW123300,Economy,from,$312,View,Comfort,from,$312,View,Premier,from,$705,View
+07/26/2014,Nottingham,Glasgow,8:17AM,Nottingham,8:54AM,Chesterfield,0hr37min,NT798100,TRANSFER: 9 min,9:03AM,Chesterfield,1:04PM,Edinburgh,4hr1min,XC104700,TRANSFER: 11 min,1:15PM,Edinburgh,2:07PM,Glasgow Queen STR,0hr52min,SR371500,Economy,from,$195,View,Comfort,from,$353,View,Premier,from,$353,View
+07/26/2014,Nottingham,Glasgow,8:17AM,Nottingham,8:54AM,Chesterfield,0hr37min,NT798100,TRANSFER: 9 min,9:03AM,Chesterfield,2:12PM,Glasgow Central,5hr9min,XC104700,Economy,from,$195,View,Comfort,from,$353,View,Premier,from,$353,View
+07/26/2014,Nottingham,Glasgow,8:48AM,Nottingham,10:36AM,Manchester Picc,1hr48min,EM926200,11:16AM,Manchester Picc,2:29PM,Glasgow Central,3hr13min,TP823300,Economy,from,$219,View,Comfort,from,$353,View
+07/26/2014,Nottingham,Glasgow,9:47AM,Nottingham,11:57AM,Warrington Centra,2hr10min,EM926600,11:57AM,Warrington Centra,11:57AM,Warrington Bank Quay,0hr0min,12:27PM,Warrington Bank Quay,3:17PM,Glasgow Central,2hr50min,VT304700,Economy,from,$219,View,Comfort,from,$353,View,Premier,from,$353,View
+07/26/2014,Nottingham,Glasgow,10:17AM,Nottingham,10:54AM,Chesterfield,0hr37min,NT800900,TRANSFER: 9 min,11:03AM,Chesterfield,3:04PM,Edinburgh,4hr1min,XC108700,TRANSFER: 10 min,3:14PM,Edinburgh,4:06PM,Glasgow Queen STR,0hr52min,SR370000,Economy,from,$217,View,Comfort,from,$353,View,Premier,from,$353,View
+07/29/2014,Nottingham,Glasgow,8:18AM,Nottingham,8:54AM,Chesterfield,0hr36min,NT356200,TRANSFER: 9 min,9:03AM,Chesterfield,1:05PM,Edinburgh,4hr2min,XC104000,TRANSFER: 10 min,1:15PM,Edinburgh,2:07PM,Glasgow Queen STR,0hr52min,SR662700,Economy,from,$217,View,Comfort,from,$353,View,Premier,from,$353,View
+07/29/2014,Nottingham,Glasgow,8:18AM,Nottingham,8:54AM,Chesterfield,0hr36min,NT356200,TRANSFER: 9 min,9:03AM,Chesterfield,2:12PM,Glasgow Central,5hr9min,XC104000,Economy,from,$217,View,Comfort,from,$353,View,Premier,from,$353,View
+07/29/2014,Nottingham,Glasgow,8:47AM,Nottingham,10:36AM,Manchester Picc,1hr49min,EM926200,11:16AM,Manchester Picc,2:29PM,Glasgow Central,3hr13min,TP802900,Economy,from,$219,View,Comfort,from,$353,View
+07/29/2014,Nottingham,Glasgow,9:47AM,Nottingham,11:57AM,Warrington Centra,2hr10min,EM926600,11:57AM,Warrington Centra,11:57AM,Warrington Bank Quay,0hr0min,12:27PM,Warrington Bank Quay,3:17PM,Glasgow Central,2hr50min,VT306000,Economy,from,$219,View,Comfort,from,$353,View,Premier,from,$353,View
+07/29/2014,Nottingham,Glasgow,10:17AM,Nottingham,10:54AM,Chesterfield,0hr37min,NT100100,TRANSFER: 9 min,11:03AM,Chesterfield,3:14PM,Haymarket,4hr11min,XC108000,TRANSFER: 5 min,3:19PM,Haymarket,4:06PM,Glasgow Queen STR,0hr47min,SR658600,Economy,from,$118,View,Comfort,from,$353,View,Premier,from,$353,View
+08/03/2014,Nottingham,Glasgow,9:47AM,Nottingham,11:58AM,Warrington Centra,2hr11min,EM926600,11:58AM,Warrington Centra,11:58AM,Warrington Bank Quay,0hr0min,TRANSFER: 29 min,12:27PM,Warrington Bank Quay,3:16PM,Glasgow Central,2hr49min,VT104100,Economy,from,$219,View,Comfort,from,$107,View,Premier,from,$107,View
+08/03/2014,Nottingham,Glasgow,10:12AM,Nottingham,10:54AM,Chesterfield,0hr42min,NT174400,TRANSFER: 9 min,11:03AM,Chesterfield,4:13PM,Glasgow Central,5hr10min,XC108100,Economy,from,$219,View,Comfort,from,$353,View,Premier,from,$353,View
+08/03/2014,Nottingham,Glasgow,10:48AM,Nottingham,12:37PM,Manchester Picc,1hr49min,EM927000,1:16PM,Manchester Picc,4:28PM,Glasgow Central,3hr12min,TP442300,Economy,from,$219,View,Comfort,from,$353,View
+08/03/2014,Nottingham,Glasgow,11:44AM,Nottingham,1:58PM,Warrington Centra,2hr14min,EM927400,1:58PM,Warrington Centra,1:58PM,Warrington Bank Quay,0hr0min,TRANSFER: 29 min,2:27PM,Warrington Bank Quay,5:17PM,Glasgow Central,2hr50min,VT106100,Economy,from,$219,View,Comfort,from,$190,View,Premier,from,$190,View
+07/26/2014,Manchester,Aberdeen,8:46AM,Manchester Picc,9:44AM,Preston,0hr58min,TP721900,TRANSFER: 9 min,9:53AM,Preston,12:16PM,Haymarket,2hr23min,VT104700,TRANSFER: 16 min,12:32PM,Haymarket,2:50PM,Aberdeen,2hr18min,SR030600,Economy,from,$200,View,Comfort,from,$354,View,Premier,from,$354,View
+07/26/2014,Manchester,Aberdeen,10:16AM,Manchester Picc,1:20PM,Haymarket,3hr4min,TP822900,TRANSFER: 12 min,1:32PM,Haymarket,3:47PM,Aberdeen,2hr15min,SR030700,Economy,from,$200,View,Comfort,from,$354,View
+07/26/2014,Manchester,Aberdeen,10:26AM,Manchester Picc,11:40AM,York,1hr14min,TP581600,TRANSFER: 14 min,11:54AM,York,5:06PM,Aberdeen,5hr12min,GR618700,Economy,from,$260,View,Comfort,from,$378,View,Premier,from,$378,View
+07/26/2014,Manchester,Aberdeen,10:57AM,Manchester Picc,12:12PM,York,1hr15min,TP552400,TRANSFER: 20 min,12:32PM,York,3:04PM,Edinburgh,2hr32min,XC108700,TRANSFER: 24 min,3:28PM,Edinburgh,5:53PM,Aberdeen,2hr25min,SR030800,Economy,from,$260,View,Comfort,from,$378,View,Premier,from,$378,View
+07/29/2014,Manchester,Aberdeen,10:16AM,Manchester Picc,1:20PM,Haymarket,3hr4min,TP802500,TRANSFER: 12 min,1:32PM,Haymarket,3:47PM,Aberdeen,2hr15min,SR030700,Economy,from,$200,View,Comfort,from,$354,View
+07/29/2014,Manchester,Aberdeen,10:26AM,Manchester Picc,11:40AM,York,1hr14min,TP532000,TRANSFER: 14 min,11:54AM,York,5:06PM,Aberdeen,5hr12min,GR620000,Economy,from,$260,View,Comfort,from,$378,View,Premier,from,$378,View
+07/29/2014,Manchester,Aberdeen,10:46AM,Manchester Picc,11:35AM,Preston,0hr49min,TP702700,TRANSFER: 18 min,11:53AM,Preston,2:15PM,Haymarket,2hr22min,VT304000,TRANSFER: 18 min,2:33PM,Haymarket,5:06PM,Aberdeen,2hr33min,GR620000,Economy,from,$200,View,Comfort,from,$354,View,Premier,from,$354,View
+07/29/2014,Manchester,Aberdeen,10:57AM,Manchester Picc,12:12PM,York,1hr15min,TP501600,TRANSFER: 20 min,12:32PM,York,3:07PM,Edinburgh,2hr35min,XC108000,TRANSFER: 21 min,3:28PM,Edinburgh,5:53PM,Aberdeen,2hr25min,SR030800,Economy,from,$260,View,Comfort,from,$378,View,Premier,from,$378,View
+08/03/2014,Manchester,Aberdeen,9:16AM,Manchester Picc,12:29PM,Haymarket,3hr13min,TP440500,TRANSFER: 15 min,12:44PM,Haymarket,3:05PM,Aberdeen,2hr21min,SR035200,Economy,from,$200,View,Comfort,from,$354,View
+08/03/2014,Manchester,Aberdeen,10:06AM,Manchester Oxford,11:39AM,York,1hr33min,TP121200,TRANSFER: 13 min,11:52AM,York,5:09PM,Aberdeen,5hr17min,GR620100,Economy,from,$260,View,Comfort,from,$378,View,Premier,from,$378,View
+08/03/2014,Manchester,Aberdeen,10:46AM,Manchester Picc,11:45AM,Preston,0hr59min,TP341500,TRANSFER: 8 min,11:53AM,Preston,2:19PM,Edinburgh,2hr26min,VT102100,TRANSFER: 14 min,2:33PM,Edinburgh,5:09PM,Aberdeen,2hr36min,GR620100,Economy,from,$200,View,Comfort,from,$354,View,Premier,from,$354,View
+07/26/2014,Norwich,London,8:00AM,Norwich,9:55AM,London Liverpool,1hr55min,LE021500,Economy,from,$60,View,Comfort,from,$49,View
+07/26/2014,Norwich,London,8:30AM,Norwich,10:19AM,London Liverpool,1hr49min,LE021600,Economy,from,$46,View,Comfort,from,$62,View
+07/26/2014,Norwich,London,9:00AM,Norwich,10:55AM,London Liverpool,1hr55min,LE021700,Economy,from,$60,View,Comfort,from,$62,View
+07/26/2014,Norwich,London,9:30AM,Norwich,11:19AM,London Liverpool,1hr49min,LE021800,Economy,from,$46,View,Comfort,from,$62,View
+07/26/2014,Norwich,London,10:00AM,Norwich,11:55AM,London Liverpool,1hr55min,LE021900,Economy,from,$60,View,Comfort,from,$62,View
+07/29/2014,Norwich,London,8:00AM,Norwich,9:56AM,London Liverpool,1hr56min,LE021500,Economy,from,$60,View,Comfort,from,$87,View
+07/29/2014,Norwich,London,8:30AM,Norwich,10:19AM,London Liverpool,1hr49min,LE021600,Economy,from,$60,View,Comfort,from,$62,View
+07/29/2014,Norwich,London,9:00AM,Norwich,10:55AM,London Liverpool,1hr55min,LE021700,Economy,from,$60,View,Comfort,from,$62,View
+07/29/2014,Norwich,London,9:30AM,Norwich,11:19AM,London Liverpool,1hr49min,LE021800,Economy,from,$46,View,Comfort,from,$49,View
+07/29/2014,Norwich,London,10:00AM,Norwich,11:55AM,London Liverpool,1hr55min,LE021900,Economy,from,$46,View,Comfort,from,$49,View
+08/03/2014,Norwich,London,8:00AM,Norwich,10:03AM,London Liverpool,2hr3min,LE021500,Economy,from,$33,View,Comfort,from,$49,View
+08/03/2014,Norwich,London,9:00AM,Norwich,11:03AM,London Liverpool,2hr3min,LE021700,Economy,from,$46,View,Comfort,from,$62,View
+08/03/2014,Norwich,London,9:03AM,Norwich,10:22AM,Cambridge,1hr19min,LE610900,TRANSFER: 6 min,10:28AM,Cambridge,11:30AM,London King S CRO,1hr2min,FC225900,Economy,from,$93,View,Comfort,from,$193,View
+08/03/2014,Norwich,London,10:00AM,Norwich,12:03PM,London Liverpool,2hr3min,LE021900,Economy,from,$46,View,Comfort,from,$62,View
+08/03/2014,Norwich,London,10:03AM,Norwich,11:23AM,Cambridge,1hr20min,LE611000,TRANSFER: 5 min,11:28AM,Cambridge,12:29PM,London King S CRO,1hr1min,FC226900,Economy,from,$93,View,Comfort,from,$193,View
+07/26/2014,Leeds,Bradford,8:08AM,Leeds,8:26AM,Bradford Intercha,0hr18min,NT720800,Economy,from,$7,View
+07/26/2014,Leeds,Bradford,8:10AM,Leeds,8:31AM,Bradford Forster SQU,0hr21min,NT221800,Economy,from,$7,View
+07/26/2014,Leeds,Bradford,8:18AM,Leeds,8:38AM,Bradford Intercha,0hr20min,NT194900,Economy,from,$7,View
+07/26/2014,Leeds,Bradford,8:25AM,Leeds,8:36AM,Shipley,0hr11min,NT089200,TRANSFER: 8 min,8:44AM,Shipley,8:53AM,Bradford Forster SQU,0hr9min,NT928100,Economy,from,$7,View
+07/26/2014,Leeds,Bradford,8:35AM,Leeds,8:57AM,Bradford Intercha,0hr22min,NT265300,Economy,from,$7,View
+07/29/2014,Leeds,Bradford,8:05AM,Leeds,8:24AM,Bradford Intercha,0hr19min,NT340400,Economy,from,$7,View
+07/29/2014,Leeds,Bradford,8:10AM,Leeds,8:31AM,Bradford Forster SQU,0hr21min,NT630000,Economy,from,$7,View
+07/29/2014,Leeds,Bradford,8:20AM,Leeds,8:40AM,Bradford Intercha,0hr20min,NT569900,Economy,from,$7,View
+07/29/2014,Leeds,Bradford,8:35AM,Leeds,8:55AM,Bradford Intercha,0hr20min,NT696700,Economy,from,$7,View
+07/29/2014,Leeds,Bradford,8:40AM,Leeds,9:00AM,Bradford Forster SQU,0hr20min,NT630300,Economy,from,$7,View
+08/03/2014,Leeds,Bradford,7:59AM,Leeds,8:21AM,Bradford Intercha,0hr22min,NT319700,Economy,from,$7,View
+08/03/2014,Leeds,Bradford,8:18AM,Leeds,8:38AM,Bradford Intercha,0hr20min,NT296000,Economy,from,$7,View
+08/03/2014,Leeds,Bradford,8:34AM,Leeds,8:54AM,Bradford Forster SQU,0hr20min,NT308200,Economy,from,$7,View
+08/03/2014,Leeds,Bradford,8:51AM,Leeds,9:11AM,Bradford Intercha,0hr20min,NT167600,Economy,from,$7,View
+08/03/2014,Leeds,Bradford,9:08AM,Leeds,9:30AM,Bradford Intercha,0hr22min,NT296100,Economy,from,$7,View
+07/26/2014,Leeds,Glasgow,8:09AM,Leeds,9:05AM,Manchester Picc,0hr56min,TP550500,TRANSFER: 11 min,9:16AM,Manchester Picc,12:29PM,Glasgow Central,3hr13min,TP822300,Economy,from,$179,View,Comfort,from,$260,View
+07/26/2014,Leeds,Glasgow,8:20AM,Leeds,8:42AM,York,0hr22min,TP580400,TRANSFER: 13 min,8:55AM,York,11:28AM,Edinburgh,2hr33min,GR606700,TRANSFER: 17 min,11:45AM,Edinburgh,12:37PM,Glasgow Queen STR,0hr52min,SR373800,Economy,from,$88,View,Comfort,from,$260,View,Premier,from,$260,View
+07/26/2014,Leeds,Glasgow,8:49AM,Leeds,11:34AM,Carlisle,2hr45min,NT086000,TRANSFER: 13 min,11:47AM,Carlisle,1:01PM,Glasgow Central,1hr14min,VT604700,Economy,from,$81,View,Comfort,from,$198,View,Premier,from,$198,View
+07/26/2014,Leeds,Glasgow,9:08AM,Leeds,12:07PM,Edinburgh,2hr59min,XC102700,TRANSFER: 23 min,12:30PM,Edinburgh,1:19PM,Glasgow Queen STR,0hr49min,SR376200,Economy,from,$94,View,Comfort,from,$94,View,Premier,from,$260,View
+07/26/2014,Leeds,Glasgow,9:17AM,Leeds,9:40AM,York,0hr23min,TP580800,TRANSFER: 13 min,9:53AM,York,12:42PM,Edinburgh,2hr49min,GR610700,TRANSFER: 18 min,1:00PM,Edinburgh,1:51PM,Glasgow Queen STR,0hr51min,SR369200,Economy,from,$179,View,Comfort,from,$260,View,Premier,from,$260,View
+07/29/2014,Leeds,Glasgow,8:17AM,Leeds,10:08AM,Lancaster,1hr51min,NT492900,TRANSFER: 6 min,10:14AM,Lancaster,12:29PM,Glasgow Central,2hr15min,TP802100,Economy,from,$189,View,Comfort,from,$260,View
+07/29/2014,Leeds,Glasgow,8:20AM,Leeds,8:42AM,York,0hr22min,TP530800,TRANSFER: 13 min,8:55AM,York,11:22AM,Edinburgh,2hr27min,GR606000,TRANSFER: 23 min,11:45AM,Edinburgh,12:37PM,Glasgow Queen STR,0hr52min,SR667900,Economy,from,$189,View,Comfort,from,$260,View,Premier,from,$260,View
+07/29/2014,Leeds,Glasgow,8:49AM,Leeds,11:34AM,Carlisle,2hr45min,NT493500,TRANSFER: 13 min,11:47AM,Carlisle,1:01PM,Glasgow Central,1hr14min,VT604000,Economy,from,$42,View,Comfort,from,$87,View,Premier,from,$87,View
+07/29/2014,Leeds,Glasgow,9:08AM,Leeds,12:03PM,Edinburgh,2hr55min,XC102000,TRANSFER: 12 min,12:15PM,Edinburgh,1:06PM,Glasgow Queen STR,0hr51min,SR661000,Economy,from,$181,View,Comfort,from,$181,View,Premier,from,$260,View
+07/29/2014,Leeds,Glasgow,9:17AM,Leeds,9:40AM,York,0hr23min,TP531200,TRANSFER: 13 min,9:53AM,York,12:22PM,Edinburgh,2hr29min,GR612000,TRANSFER: 23 min,12:45PM,Edinburgh,1:37PM,Glasgow Queen STR,0hr52min,SR652900,Economy,from,$189,View,Comfort,from,$260,View,Premier,from,$260,View
+08/03/2014,Leeds,Glasgow,9:20AM,Leeds,1:14PM,Glasgow Central,3hr54min,XC102100,Economy,from,$92,View,Premier,from,$235,View
+08/03/2014,Leeds,Glasgow,10:08AM,Leeds,2:09PM,Glasgow Central,4hr1min,XC104100,Economy,from,$92,View,Premier,from,$235,View
+08/03/2014,Leeds,Glasgow,10:12AM,Leeds,10:36AM,York,0hr24min,TP120400,TRANSFER: 13 min,10:49AM,York,1:16PM,Edinburgh,2hr27min,GR616100,TRANSFER: 14 min,1:30PM,Edinburgh,2:22PM,Glasgow Queen STR,0hr52min,SR326700,Economy,from,$88,View,Comfort,from,$260,View,Premier,from,$260,View
+08/03/2014,Leeds,Glasgow,10:57AM,Leeds,12:46PM,Lancaster,1hr49min,NT276900,TRANSFER: 9 min,12:55PM,Lancaster,3:02PM,Glasgow Central,2hr7min,VT604100,Economy,from,$82,View,Comfort,from,$122,View,Premier,from,$122,View
+08/03/2014,Leeds,Glasgow,11:20AM,Leeds,1:47PM,Carlisle,2hr27min,NT171700,TRANSFER: 15 min,2:02PM,Carlisle,3:16PM,Glasgow Central,1hr14min,VT104100,Economy,from,$81,View,Comfort,from,$260,View,Premier,from,$260,View
+07/26/2014,Norwich,Edinburgh,8:57AM,Norwich,10:21AM,Peterborough,1hr24min,EM927400,11:16AM,Peterborough,3:28PM,Edinburgh,4hr12min,GR622700,Economy,from,$229,View,Comfort,from,$361,View,Premier,from,$361,View
+07/26/2014,Norwich,Edinburgh,9:57AM,Norwich,11:19AM,Peterborough,1hr22min,EM927800,12:16PM,Peterborough,4:26PM,Edinburgh,4hr10min,GR628700,Economy,from,$229,View,Comfort,from,$361,View,Premier,from,$361,View
+07/26/2014,Norwich,Edinburgh,10:57AM,Norwich,12:22PM,Peterborough,1hr25min,EM928200,1:16PM,Peterborough,3:51PM,Newcastle,2hr35min,GR634700,TRANSFER: 17 min,4:08PM,Newcastle,5:45PM,Edinburgh,1hr37min,GR636900,Economy,from,$229,View,Comfort,from,$361,View,Premier,from,$361,View
+07/26/2014,Norwich,Edinburgh,11:57AM,Norwich,1:26PM,Peterborough,1hr29min,EM928600,2:16PM,Peterborough,6:26PM,Edinburgh,4hr10min,GR640700,Economy,from,$229,View,Comfort,from,$361,View,Premier,from,$361,View
+07/29/2014,Norwich,Edinburgh,8:57AM,Norwich,10:26AM,Peterborough,1hr29min,EM927400,11:16AM,Peterborough,12:31PM,York,1hr15min,GR422000,TRANSFER: 22 min,12:53PM,York,3:21PM,Edinburgh,2hr28min,GR624000,Economy,from,$257,View,Comfort,from,$361,View,Premier,from,$361,View
+07/29/2014,Norwich,Edinburgh,9:57AM,Norwich,11:27AM,Peterborough,1hr30min,EM927800,12:16PM,Peterborough,4:13PM,Edinburgh,3hr57min,GR628000,Economy,from,$229,View,Comfort,from,$361,View,Premier,from,$361,View
+07/29/2014,Norwich,Edinburgh,11:57AM,Norwich,1:25PM,Peterborough,1hr28min,EM928600,TRANSFER: 21 min,1:46PM,Peterborough,5:22PM,Edinburgh,3hr36min,GR636000,Economy,from,$229,View,Comfort,from,$361,View,Premier,from,$361,View
+08/03/2014,Norwich,Edinburgh,9:39AM,Norwich,11:09AM,Peterborough,1hr30min,EM927800,12:09PM,Peterborough,3:58PM,Edinburgh,3hr49min,GR626100,Economy,from,$229,View,Comfort,from,$361,View,Premier,from,$361,View
+08/03/2014,Norwich,Edinburgh,10:03AM,Norwich,11:01AM,ELY,0hr58min,LE611000,TRANSFER: 14 min,11:15AM,ELY,11:51AM,Peterborough,0hr36min,XC665100,TRANSFER: 18 min,12:09PM,Peterborough,3:58PM,Edinburgh,3hr49min,GR626100,Economy,from,$229,View,Comfort,from,$361,View,Premier,from,$361,View
+08/03/2014,Norwich,Edinburgh,10:47AM,Norwich,12:11PM,Peterborough,1hr24min,EM928200,1:09PM,Peterborough,2:20PM,York,1hr11min,GR432100,TRANSFER: 9 min,2:29PM,York,4:56PM,Edinburgh,2hr27min,XC115100,Economy,from,$229,View,Comfort,from,$361,View,Premier,from,$361,View
+08/03/2014,Norwich,Edinburgh,11:03AM,Norwich,12:03PM,ELY,1hr0min,LE611100,TRANSFER: 12 min,12:15PM,ELY,12:51PM,Peterborough,0hr36min,XC667100,TRANSFER: 25 min,1:16PM,Peterborough,5:09PM,Edinburgh,3hr53min,GR634100,Economy,from,$118,View,Comfort,from,$361,View,Premier,from,$361,View
+07/26/2014,Southampton,Glasgow,8:00AM,Southampton,9:20AM,London Waterl DOM,1hr20min,SW922200,9:20AM,London Waterl DOM,9:20AM,London Euston,0hr0min,10:30AM,London Euston,3:01PM,Glasgow Central,4hr31min,VT608700,Economy,from,$298,View,Comfort,from,$560,View,Premier,from,$560,View
+07/26/2014,Southampton,Glasgow,8:15AM,Southampton,10:37AM,Birmingham Airport,2hr22min,XC310700,TRANSFER: 16 min,10:53AM,Birmingham Airport,3:17PM,Glasgow Central,4hr24min,VT304700,Economy,from,$263,View,Premier,from,$366,View
+07/26/2014,Southampton,Glasgow,9:00AM,Southampton,10:20AM,London Waterl DOM,1hr20min,SW922600,10:20AM,London Waterl DOM,10:20AM,London Euston,0hr0min,11:30AM,London Euston,4:01PM,Glasgow Central,4hr31min,VT611700,Economy,from,$298,View,Comfort,from,$560,View,Premier,from,$560,View
+07/29/2014,Southampton,Glasgow,8:00AM,Southampton,9:25AM,London Waterl DOM,1hr25min,SW922202,9:25AM,London Waterl DOM,9:25AM,London Euston,0hr0min,10:30AM,London Euston,3:01PM,Glasgow Central,4hr31min,VT608000,Economy,from,$298,View,Comfort,from,$560,View,Premier,from,$560,View
+07/29/2014,Southampton,Glasgow,8:15AM,Southampton,10:37AM,Birmingham Airport,2hr22min,XC310000,TRANSFER: 16 min,10:53AM,Birmingham Airport,3:17PM,Glasgow Central,4hr24min,VT306000,Economy,from,$263,View,Premier,from,$366,View
+07/29/2014,Southampton,Glasgow,9:00AM,Southampton,10:23AM,London Waterl DOM,1hr23min,SW922600,10:23AM,London Waterl DOM,10:23AM,London Euston,0hr0min,11:30AM,London Euston,4:01PM,Glasgow Central,4hr31min,VT610000,Economy,from,$298,View,Comfort,from,$560,View,Premier,from,$560,View
+08/03/2014,Southampton,Glasgow,9:25AM,Southampton,10:50AM,London Waterl DOM,1hr25min,SW912800,10:50AM,London Waterl DOM,10:50AM,London Euston,0hr0min,12:28PM,London Euston,5:00PM,Glasgow Central,4hr32min,VT609100,Economy,from,$298,View,Comfort,from,$560,View,Premier,from,$560,View
+08/03/2014,Southampton,Glasgow,10:15AM,Southampton,12:50PM,Birmingham New ST,2hr35min,XC314100,1:20PM,Birmingham New ST,5:17PM,Glasgow Central,3hr57min,VT106100,Economy,from,$263,View,Premier,from,$366,View
+08/03/2014,Southampton,Glasgow,10:25AM,Southampton,11:50AM,London Waterl DOM,1hr25min,SW913200,11:50AM,London Waterl DOM,11:50AM,London Euston,0hr0min,1:28PM,London Euston,6:01PM,Glasgow Central,4hr33min,VT612100,Economy,from,$298,View,Comfort,from,$243,View,Premier,from,$243,View
+08/03/2014,Southampton,Glasgow,11:15AM,Southampton,1:37PM,Birmingham Airport,2hr22min,XC316100,TRANSFER: 16 min,1:53PM,Birmingham Airport,4:08PM,Lancaster,2hr15min,VT300100,TRANSFER: 6 min,4:14PM,Lancaster,6:28PM,Glasgow Central,2hr14min,TP443100,Economy,from,$263,View,Comfort,from,$263,View,Premier,from,$366,View
+07/26/2014,London,Jersey,error
+07/29/2014,London,Jersey,error
+08/03/2014,London,Jersey,error
+07/26/2014,Leeds,Belfast,error
+07/29/2014,Leeds,Belfast,error
+08/03/2014,Leeds,Belfast,error

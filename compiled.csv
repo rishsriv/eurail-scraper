@@ -1,0 +1,454 @@
+07/26/2014,Zurich,London,7:34AM,Zurich HB,11:37AM,Paris Gare Lyon,4hr3min,TGV Lyria 9206,1:13PM,Paris Nord,2:39PM,London St-Pancras,2hr26min,Eurostar 9031,$469,$507,$752
+07/26/2014,Zurich,London,9:34AM,Zurich HB,1:37PM,Paris Gare Lyon,4hr3min,TGV Lyria 9210,3:13PM,Paris Nord,4:39PM,London St-Pancras,2hr26min,Eurostar 9039,$448,$486,$752
+07/26/2014,Zurich,London,11:34AM,Zurich HB,3:37PM,Paris Gare Lyon,4hr3min,TGV Lyria 9218,5:13PM,Paris Nord,6:30PM,London St-Pancras,2hr17min,Eurostar 9047,$448,$587,$752
+07/26/2014,Zurich,London,1:34PM,Zurich HB,5:37PM,Paris Gare Lyon,4hr3min,Lyria 9222,7:13PM,Paris Nord,8:39PM,London St-Pancras,2hr26min,Eurostar 9055,$448,$486,$752
+07/29/2014,Zurich,London,7:34AM,Zurich HB,11:37AM,Paris Gare Lyon,4hr3min,TGV Lyria 9206,1:13PM,Paris Nord,2:39PM,London St-Pancras,2hr26min,Eurostar 9031,$448,$486,$752
+07/29/2014,Zurich,London,9:34AM,Zurich HB,1:37PM,Paris Gare Lyon,4hr3min,TGV Lyria 9210,3:13PM,Paris Nord,4:39PM,London St-Pancras,2hr26min,Eurostar 9039,$426,$464,$752
+07/29/2014,Zurich,London,11:34AM,Zurich HB,3:37PM,Paris Gare Lyon,4hr3min,TGV Lyria 9218,5:13PM,Paris Nord,6:30PM,London St-Pancras,2hr17min,Eurostar 9047,$448,$587,$752
+07/29/2014,Zurich,London,1:34PM,Zurich HB,5:37PM,Paris Gare Lyon,4hr3min,Lyria 9222,7:13PM,Paris Nord,8:41PM,London St-Pancras,2hr28min,Eurostar 9055,$353,$464,$752
+07/29/2014,Zurich,London,3:34PM,Zurich HB,7:37PM,Paris Gare Lyon,4hr3min,Lyria 9226,9:13PM,Paris Nord,10:39PM,London St-Pancras,2hr26min,Eurostar 9063,$353,$464,$752
+08/03/2014,Zurich,London,7:34AM,Zurich HB,11:37AM,Paris Gare Lyon,4hr3min,TGV Lyria 9206,1:13PM,Paris Nord,2:39PM,London St-Pancras,2hr26min,Eurostar 9031,$469,$507,$723
+08/03/2014,Zurich,London,9:34AM,Zurich HB,1:37PM,Paris Gare Lyon,4hr3min,TGV Lyria 9210,3:13PM,Paris Nord,4:39PM,London St-Pancras,2hr26min,Eurostar 9039,$448,$486,$752
+08/03/2014,Zurich,London,11:34AM,Zurich HB,3:37PM,Paris Gare Lyon,4hr3min,TGV Lyria 9218,5:13PM,Paris Nord,6:30PM,London St-Pancras,2hr17min,Eurostar 9047,$538,$587,$752
+08/03/2014,Zurich,London,1:34PM,Zurich HB,5:37PM,Paris Gare Lyon,4hr3min,Lyria 9222,7:13PM,Paris Nord,8:39PM,London St-Pancras,2hr26min,Eurostar 9055,$448,$486,$752
+08/03/2014,Zurich,London,3:34PM,Zurich HB,7:37PM,Paris Gare Lyon,4hr3min,Lyria 9226,9:13PM,Paris Nord,10:39PM,London St-Pancras,2hr26min,Eurostar 9063,$516,$565,$723
+07/26/2014,Porto,London,error
+07/29/2014,Porto,London,error
+08/03/2014,Porto,London,error
+07/26/2014,Porto,Amsterdam,error
+07/29/2014,Porto,Amsterdam,error
+08/03/2014,Porto,Amsterdam,error
+07/26/2014,Paris,London,7:13AM,Paris Nord,8:30AM,London St-Pancras,2hr17min,Eurostar 9007,$266,$304,$507
+07/26/2014,Paris,London,8:13AM,Paris Nord,9:30AM,London St-Pancras,2hr17min,Eurostar 9011,$193,$304,$507
+07/26/2014,Paris,London,8:43AM,Paris Nord,10:00AM,London St-Pancras,2hr17min,Eurostar 9013,$193,$214,$507
+07/26/2014,Paris,London,9:13AM,Paris Nord,10:39AM,London St-Pancras,2hr26min,Eurostar 9015,$193,$304,$507
+07/26/2014,Paris,London,10:13AM,Paris Nord,11:39AM,London St-Pancras,2hr26min,Eurostar 9019,$266,$304,$507
+07/26/2014,Paris,London,11:13AM,Paris Nord,12:30PM,London St-Pancras,2hr17min,Eurostar 9023,$266,$304,$507
+07/26/2014,Paris,London,11:43AM,Paris Nord,1:00PM,London St-Pancras,2hr17min,Eurostar 9025,$193,$405,$507
+07/26/2014,Paris,London,12:43PM,Paris Nord,2:00PM,London St-Pancras,2hr17min,Eurostar 9029,$266,$405,$507
+07/26/2014,Paris,London,1:13PM,Paris Nord,2:39PM,London St-Pancras,2hr26min,Eurostar 9031,$266,$304,$507
+07/26/2014,Paris,London,2:13PM,Paris Nord,3:30PM,London St-Pancras,2hr17min,Eurostar 9035,$266,$304,$507
+07/26/2014,Paris,London,3:13PM,Paris Nord,4:39PM,London St-Pancras,2hr26min,Eurostar 9039,$266,$304,$507
+07/26/2014,Paris,London,4:13PM,Paris Nord,5:39PM,London St-Pancras,2hr26min,Eurostar 9043,$356,$405,$507
+07/26/2014,Paris,London,5:13PM,Paris Nord,6:30PM,London St-Pancras,2hr17min,Eurostar 9047,$266,$405,$507
+07/26/2014,Paris,London,7:13PM,Paris Nord,8:39PM,London St-Pancras,2hr26min,Eurostar 9055,$266,$304,$507
+07/26/2014,Paris,London,8:13PM,Paris Nord,9:39PM,London St-Pancras,2hr26min,Eurostar 9059,$193,$405,$507
+07/29/2014,Paris,London,7:13AM,Paris Nord,8:30AM,London St-Pancras,2hr17min,Eurostar 9007,$356,$405,$507
+07/29/2014,Paris,London,7:43AM,Paris Nord,9:00AM,London St-Pancras,2hr17min,Eurostar 9009,$356,$405,$507
+07/29/2014,Paris,London,9:13AM,Paris Nord,10:39AM,London St-Pancras,2hr26min,Eurostar 9015,$356,$405,$507
+07/29/2014,Paris,London,10:13AM,Paris Nord,11:39AM,London St-Pancras,2hr26min,Eurostar 9019,$266,$304,$507
+07/29/2014,Paris,London,11:13AM,Paris Nord,12:30PM,London St-Pancras,2hr17min,Eurostar 9023,$356,$405,$507
+07/29/2014,Paris,London,11:43AM,Paris Nord,1:00PM,London St-Pancras,2hr17min,Eurostar 9025,$193,$214,$507
+07/29/2014,Paris,London,12:43PM,Paris Nord,2:00PM,London St-Pancras,2hr17min,Eurostar 9029,$266,$304,$507
+07/29/2014,Paris,London,1:13PM,Paris Nord,2:39PM,London St-Pancras,2hr26min,Eurostar 9031,$266,$304,$507
+07/29/2014,Paris,London,2:43PM,Paris Nord,4:00PM,London St-Pancras,2hr17min,Eurostar 9037,$193,$304,$507
+07/29/2014,Paris,London,3:13PM,Paris Nord,4:39PM,London St-Pancras,2hr26min,Eurostar 9039,$266,$304,$507
+07/29/2014,Paris,London,4:13PM,Paris Nord,5:39PM,London St-Pancras,2hr26min,Eurostar 9043,$266,$405,$507
+07/29/2014,Paris,London,5:13PM,Paris Nord,6:30PM,London St-Pancras,2hr17min,Eurostar 9047,$266,$405,$507
+07/29/2014,Paris,London,6:13PM,Paris Nord,7:39PM,London St-Pancras,2hr26min,Eurostar 9051,$356,$405,$507
+07/29/2014,Paris,London,6:43PM,Paris Nord,8:00PM,London St-Pancras,2hr17min,Eurostar 9053,$266,$405,$507
+07/29/2014,Paris,London,7:13PM,Paris Nord,8:41PM,London St-Pancras,2hr28min,Eurostar 9055,$193,$304,$507
+07/29/2014,Paris,London,8:13PM,Paris Nord,9:39PM,London St-Pancras,2hr26min,Eurostar 9059,$266,$405,$507
+07/29/2014,Paris,London,9:13PM,Paris Nord,10:39PM,London St-Pancras,2hr26min,Eurostar 9063,$193,$304,$507
+08/03/2014,Paris,London,8:13AM,Paris Nord,9:30AM,London St-Pancras,2hr17min,Eurostar 9011,$405,$507
+08/03/2014,Paris,London,9:13AM,Paris Nord,10:39AM,London St-Pancras,2hr26min,Eurostar 9015,$193,$214,$507
+08/03/2014,Paris,London,10:13AM,Paris Nord,11:39AM,London St-Pancras,2hr26min,Eurostar 9019,$153,$304,$507
+08/03/2014,Paris,London,11:13AM,Paris Nord,12:30PM,London St-Pancras,2hr17min,Eurostar 9023,$266,$304,$507
+08/03/2014,Paris,London,11:43AM,Paris Nord,1:00PM,London St-Pancras,2hr17min,Eurostar 9025,$193,$214,$507
+08/03/2014,Paris,London,12:13PM,Paris Nord,1:30PM,London St-Pancras,2hr17min,Eurostar 9027,$266,$304,$507
+08/03/2014,Paris,London,1:13PM,Paris Nord,2:39PM,London St-Pancras,2hr26min,Eurostar 9031,$266,$304,$507
+08/03/2014,Paris,London,1:43PM,Paris Nord,3:00PM,London St-Pancras,2hr17min,Eurostar 9033,$193,$214,$507
+08/03/2014,Paris,London,2:13PM,Paris Nord,3:30PM,London St-Pancras,2hr17min,Eurostar 9035,$266,$304,$507
+08/03/2014,Paris,London,3:13PM,Paris Nord,4:39PM,London St-Pancras,2hr26min,Eurostar 9039,$266,$304,$507
+08/03/2014,Paris,London,4:13PM,Paris Nord,5:39PM,London St-Pancras,2hr26min,Eurostar 9043,$266,$304,$507
+08/03/2014,Paris,London,4:43PM,Paris Nord,6:00PM,London St-Pancras,2hr17min,Eurostar 9045,$266,$304,$507
+08/03/2014,Paris,London,5:13PM,Paris Nord,6:30PM,London St-Pancras,2hr17min,Eurostar 9047,$356,$405,$507
+08/03/2014,Paris,London,6:13PM,Paris Nord,7:39PM,London St-Pancras,2hr26min,Eurostar 9051,$356,$304,$507
+08/03/2014,Paris,London,6:43PM,Paris Nord,8:00PM,London St-Pancras,2hr17min,Eurostar 9053,$266,$304,$507
+08/03/2014,Paris,London,7:13PM,Paris Nord,8:39PM,London St-Pancras,2hr26min,Eurostar 9055,$266,$304,$507
+08/03/2014,Paris,London,8:13PM,Paris Nord,9:39PM,London St-Pancras,2hr26min,Eurostar 9059,$266,$304,$507
+08/03/2014,Paris,London,8:43PM,Paris Nord,10:00PM,London St-Pancras,2hr17min,Eurostar 9061,$266,$304,$507
+07/26/2014,London,Frankfurt,error
+07/29/2014,London,Frankfurt,8:58AM,London St-Pancras,12:05PM,Bruxelles Midi,2hr7min,Eurostar 9116,1:28PM,Bruxelles Midi,3:15PM,Koeln HBF,1hr47min,Thalys 9437,TRANSFER: 13 min,3:28PM,Koeln HBF,4:30PM,Frankfurt Main HB,1hr2min,Inter City Express 125,$343,$498,$776
+07/29/2014,London,Frankfurt,10:58AM,London St-Pancras,2:05PM,Bruxelles Midi,2hr7min,Eurostar 9126,TRANSFER: 20 min,2:25PM,Bruxelles Midi,5:41PM,Frankfurt Main HB,3hr16min,Inter City Express 17,$314,$460,$738
+07/29/2014,London,Frankfurt,12:58PM,London St-Pancras,4:08PM,Bruxelles Midi,2hr10min,Eurostar 9132,6:25PM,Bruxelles Midi,9:30PM,Frankfurt Main HB,3hr5min,Inter City Express 19,$285,$460,$738
+08/03/2014,London,Frankfurt,8:58AM,London St-Pancras,12:08PM,Bruxelles Midi,2hr10min,Eurostar 9116,2:25PM,Bruxelles Midi,5:41PM,Frankfurt Main HB,3hr16min,Inter City Express 17,$314,$460,$738
+08/03/2014,London,Frankfurt,8:58AM,London St-Pancras,12:08PM,Bruxelles Midi,2hr10min,Eurostar 9116,1:28PM,Bruxelles Midi,3:15PM,Koeln HBF,1hr47min,Thalys 9437,TRANSFER: 13 min,3:28PM,Koeln HBF,4:30PM,Frankfurt Main HB,1hr2min,Inter City Express 125,$357,$483,$776
+08/03/2014,London,Frankfurt,9:22AM,London St-Pancras,12:47PM,Paris Nord,2hr25min,Eurostar 9014,TRANSFER: 8 min,12:55PM,Paris Nord,2:17PM,Bruxelles Midi,1hr22min,Thalys 9341,TRANSFER: 8 min,2:25PM,Bruxelles Midi,5:41PM,Frankfurt Main HB,3hr16min,Inter City Express 17,$445,$624,$862
+08/03/2014,London,Frankfurt,12:58PM,London St-Pancras,4:08PM,Bruxelles Midi,2hr10min,Eurostar 9132,6:25PM,Bruxelles Midi,9:30PM,Frankfurt Main HB,3hr5min,Inter City Express 19,$314,$460,$738
+07/26/2014,London,Geneva,12:25PM,London St-Pancras,3:47PM,Paris Nord,2hr22min,Eurostar 9024,5:57PM,Paris Gare Lyon,10:18PM,Geneva,4hr21min,TGV Lyria 9783,$488,$529,$735
+07/29/2014,London,Geneva,7:31AM,London St-Pancras,10:47AM,Paris Nord,2hr16min,Eurostar 9006,11:57AM,Paris Gare Lyon,4:30PM,Geneva,4hr33min,TGV Lyria 9779,$459,$500,$735
+07/29/2014,London,Geneva,12:25PM,London St-Pancras,3:47PM,Paris Nord,2hr22min,Eurostar 9024,5:57PM,Paris Gare Lyon,10:18PM,Geneva,4hr21min,TGV Lyria 9783,$488,$529,$697
+07/29/2014,London,Geneva,1:31PM,London St-Pancras,4:47PM,Paris Nord,2hr16min,Eurostar 9028,5:57PM,Paris Gare Lyon,10:18PM,Geneva,4hr21min,TGV Lyria 9783,$417,$461,$697
+08/03/2014,London,Geneva,12:25PM,London St-Pancras,3:47PM,Paris Nord,2hr22min,Eurostar 9024,5:57PM,Paris Gare Lyon,10:18PM,Geneva,4hr21min,TGV Lyria 9783,$417,$461,$764
+08/03/2014,London,Geneva,1:01PM,London St-Pancras,4:17PM,Paris Nord,2hr16min,Eurostar 9026,5:57PM,Paris Gare Lyon,10:18PM,Geneva,4hr21min,TGV Lyria 9783,$488,$529,$764
+08/03/2014,London,Geneva,1:31PM,London St-Pancras,4:47PM,Paris Nord,2hr16min,Eurostar 9028,5:57PM,Paris Gare Lyon,10:18PM,Geneva,4hr21min,TGV Lyria 9783,$366,$461,$764
+07/26/2014,London,Dusseldorf,8:57AM,London St-Pancras,12:08PM,Bruxelles Midi,2hr11min,Eurostar 9116,1:28PM,Bruxelles Midi,3:42PM,Duesseldorf HBF,2hr14min,Thalys 9437,$428,$451,$626
+07/29/2014,London,Dusseldorf,8:04AM,London St-Pancras,11:05AM,Bruxelles Midi,2hr1min,Eurostar 9114,1:28PM,Bruxelles Midi,3:42PM,Duesseldorf HBF,2hr14min,Thalys 9437,$235,$326,$601
+07/29/2014,London,Dusseldorf,8:58AM,London St-Pancras,12:05PM,Bruxelles Midi,2hr7min,Eurostar 9116,1:28PM,Bruxelles Midi,3:42PM,Duesseldorf HBF,2hr14min,Thalys 9437,$235,$326,$601
+07/29/2014,London,Dusseldorf,10:58AM,London St-Pancras,2:05PM,Bruxelles Midi,2hr7min,Eurostar 9126,TRANSFER: 20 min,2:25PM,Bruxelles Midi,4:15PM,Koeln HBF,1hr50min,Inter City Express 17,TRANSFER: 16 min,4:31PM,Koeln HBF,5:01PM,Duesseldorf HBF,0hr30min,10524,$270,$398,$676
+08/03/2014,London,Dusseldorf,8:58AM,London St-Pancras,12:08PM,Bruxelles Midi,2hr10min,Eurostar 9116,1:28PM,Bruxelles Midi,3:42PM,Duesseldorf HBF,2hr14min,Thalys 9437,$248,$310,$577
+07/26/2014,London,Amsterdam,8:57AM,London St-Pancras,12:08PM,Bruxelles Midi,2hr11min,Eurostar 9116,1:52PM,Bruxelles Midi,3:42PM,Amsterdam CS,1hr50min,Thalys 9339,$440,$463,$659
+07/26/2014,London,Amsterdam,9:00AM,London St-Pancras,12:17PM,Paris Nord,2hr17min,Eurostar 9012,TRANSFER: 8 min,12:25PM,Paris Nord,3:42PM,Amsterdam CS,3hr17min,Thalys 9339,$512,$553,$798
+07/26/2014,London,Amsterdam,10:58AM,London St-Pancras,2:05PM,Bruxelles Midi,2hr7min,Eurostar 9126,3:52PM,Bruxelles Midi,5:42PM,Amsterdam CS,1hr50min,Thalys 9351,$440,$463,$659
+07/26/2014,London,Amsterdam,11:01AM,London St-Pancras,2:17PM,Paris Nord,2hr16min,Eurostar 9020,TRANSFER: 8 min,2:25PM,Paris Nord,5:42PM,Amsterdam CS,3hr17min,Thalys 9351,$512,$553,$798
+07/29/2014,London,Amsterdam,error
+08/03/2014,London,Amsterdam,8:58AM,London St-Pancras,12:08PM,Bruxelles Midi,2hr10min,Eurostar 9116,1:50PM,Bruxelles Midi,3:56PM,Amsterdam CS,2hr6min,Thalys 9339,$276,$338,$659
+08/03/2014,London,Amsterdam,11:01AM,London St-Pancras,2:17PM,Paris Nord,2hr16min,Eurostar 9020,TRANSFER: 8 min,2:25PM,Paris Nord,5:56PM,Amsterdam CS,3hr31min,Thalys 9351,$430,$474,$798
+08/03/2014,London,Amsterdam,12:58PM,London St-Pancras,4:08PM,Bruxelles Midi,2hr10min,Eurostar 9132,4:50PM,Bruxelles Midi,6:56PM,Amsterdam CS,2hr6min,Thalys 9357,$276,$338,$659
+07/26/2014,Porto,Manchester,error
+07/29/2014,Porto,Manchester,error
+08/03/2014,Porto,Manchester,error
+07/26/2014,Vantaa,London,error
+07/29/2014,Vantaa,London,error
+08/03/2014,Vantaa,London,error
+07/26/2014,Stockholm,London,error
+07/29/2014,Stockholm,London,error
+08/03/2014,Stockholm,London,error
+07/26/2014,Luxembourg,London,8:11AM,Luxembourg,10:20AM,Paris EST,2hr9min,TGV Est 2861,11:43AM,Paris Nord,1:00PM,London St-Pancras,2hr17min,Eurostar 9025,$382,$614,$716
+07/26/2014,Luxembourg,London,10:11AM,Luxembourg,12:20PM,Paris EST,2hr9min,TGV Est 2865,2:13PM,Paris Nord,3:30PM,London St-Pancras,2hr17min,Eurostar 9035,$382,$513,$716
+07/29/2014,Luxembourg,London,8:20AM,Luxembourg,11:27AM,Bruxelles Midi,3hr7min,Train 2131,12:17PM,Bruxelles Midi,12:53PM,Lille Europe,0hr36min,Brussels Provence TGV 9828,1:30PM,Lille Europe,2:03PM,London St-Pancras,1hr33min,Eurostar 9133,$245,$349,$635
+07/29/2014,Luxembourg,London,8:20AM,Luxembourg,11:27AM,Bruxelles Midi,3hr7min,Train 2131,12:52PM,Bruxelles Midi,2:03PM,London St-Pancras,2hr11min,Eurostar 9133,$188,$301,$553
+07/29/2014,Luxembourg,London,10:11AM,Luxembourg,12:20PM,Paris EST,2hr9min,TGV Est 2865,2:43PM,Paris Nord,4:00PM,London St-Pancras,2hr17min,Eurostar 9037,$309,$513,$716
+07/29/2014,Luxembourg,London,10:20AM,Luxembourg,1:27PM,Bruxelles Midi,3hr7min,Train 2133,2:56PM,Bruxelles Midi,4:03PM,London St-Pancras,2hr7min,Eurostar 9141,$188,$301,$553
+07/29/2014,Luxembourg,London,11:20AM,Luxembourg,2:27PM,Bruxelles Midi,3hr7min,Train 2134,3:56PM,Bruxelles Midi,4:57PM,London St-Pancras,2hr1min,Eurostar 9145,$168,$267,$553
+08/03/2014,Luxembourg,London,8:11AM,Luxembourg,10:20AM,Paris EST,2hr9min,TGV Est 2861,12:13PM,Paris Nord,1:30PM,London St-Pancras,2hr17min,Eurostar 9027,$371,$418,$621
+08/03/2014,Luxembourg,London,8:11AM,Luxembourg,10:20AM,Paris EST,2hr9min,TGV Est 2861,11:43AM,Paris Nord,1:00PM,London St-Pancras,2hr17min,Eurostar 9025,$298,$328,$621
+08/03/2014,Luxembourg,London,10:11AM,Luxembourg,12:20PM,Paris EST,2hr9min,TGV Est 2865,1:43PM,Paris Nord,3:00PM,London St-Pancras,2hr17min,Eurostar 9033,$298,$355,$648
+08/03/2014,Luxembourg,London,10:20AM,Luxembourg,1:27PM,Bruxelles Midi,3hr7min,Train 2133,2:52PM,Bruxelles Midi,4:03PM,London St-Pancras,2hr11min,Eurostar 9141,$250,$373,$553
+08/03/2014,Luxembourg,London,11:20AM,Luxembourg,2:27PM,Bruxelles Midi,3hr7min,Train 2134,3:56PM,Bruxelles Midi,4:57PM,London St-Pancras,2hr1min,Eurostar 9145,$323,$373,$553
+07/26/2014,London,Copenhagen,error
+07/29/2014,London,Copenhagen,error
+08/03/2014,London,Copenhagen,error
+07/26/2014,Vantaa,Munich,error
+07/29/2014,Vantaa,Munich,error
+08/03/2014,Vantaa,Munich,error
+07/26/2014,Munich,London,error
+07/29/2014,Munich,London,10:50PM,Muenchen HBF,9:24AM,Paris EST,10hr34min,City Night Line 40418,11:13AM,Paris Nord,12:30PM,London St-Pancras,2hr17min,Eurostar 9023,$386,$604,$900
+08/03/2014,Munich,London,10:50PM,Muenchen HBF,9:24AM,Paris EST,10hr34min,City Night Line 40418,11:13AM,Paris Nord,12:30PM,London St-Pancras,2hr17min,Eurostar 9023,$549,$705,$900
+07/26/2014,Basel,London,8:34AM,Basel,11:37AM,Paris Gare Lyon,3hr3min,TGV Lyria 9206,1:13PM,Paris Nord,2:39PM,London St-Pancras,2hr26min,Eurostar 9031,$452,$490,$723
+07/26/2014,Basel,London,10:34AM,Basel,1:37PM,Paris Gare Lyon,3hr3min,TGV Lyria 9214,3:13PM,Paris Nord,4:39PM,London St-Pancras,2hr26min,Eurostar 9039,$430,$468,$723
+07/26/2014,Basel,London,10:34AM,Basel,1:37PM,Paris Gare Lyon,3hr3min,TGV Lyria 9210,3:13PM,Paris Nord,4:39PM,London St-Pancras,2hr26min,Eurostar 9039,$430,$468,$723
+07/26/2014,Basel,London,12:34PM,Basel,3:37PM,Paris Gare Lyon,3hr3min,TGV Lyria 9218,5:13PM,Paris Nord,6:30PM,London St-Pancras,2hr17min,Eurostar 9047,$430,$569,$723
+07/26/2014,Basel,London,2:34PM,Basel,5:37PM,Paris Gare Lyon,3hr3min,Lyria 9222,7:13PM,Paris Nord,8:39PM,London St-Pancras,2hr26min,Eurostar 9055,$430,$468,$723
+07/29/2014,Basel,London,8:34AM,Basel,11:37AM,Paris Gare Lyon,3hr3min,TGV Lyria 9206,1:13PM,Paris Nord,2:39PM,London St-Pancras,2hr26min,Eurostar 9031,$430,$468,$723
+07/29/2014,Basel,London,10:34AM,Basel,1:37PM,Paris Gare Lyon,3hr3min,TGV Lyria 9214,3:13PM,Paris Nord,4:39PM,London St-Pancras,2hr26min,Eurostar 9039,$430,$468,$723
+07/29/2014,Basel,London,10:34AM,Basel,1:37PM,Paris Gare Lyon,3hr3min,TGV Lyria 9210,3:13PM,Paris Nord,4:39PM,London St-Pancras,2hr26min,Eurostar 9039,$395,$433,$723
+07/29/2014,Basel,London,12:34PM,Basel,3:37PM,Paris Gare Lyon,3hr3min,TGV Lyria 9218,5:13PM,Paris Nord,6:30PM,London St-Pancras,2hr17min,Eurostar 9047,$430,$569,$723
+07/29/2014,Basel,London,2:34PM,Basel,5:37PM,Paris Gare Lyon,3hr3min,Lyria 9222,7:13PM,Paris Nord,8:41PM,London St-Pancras,2hr28min,Eurostar 9055,$322,$433,$723
+08/03/2014,Basel,London,8:34AM,Basel,11:37AM,Paris Gare Lyon,3hr3min,TGV Lyria 9206,1:13PM,Paris Nord,2:39PM,London St-Pancras,2hr26min,Eurostar 9031,$452,$490,$694
+08/03/2014,Basel,London,10:34AM,Basel,1:37PM,Paris Gare Lyon,3hr3min,TGV Lyria 9214,3:13PM,Paris Nord,4:39PM,London St-Pancras,2hr26min,Eurostar 9039,$430,$468,$723
+08/03/2014,Basel,London,10:34AM,Basel,1:37PM,Paris Gare Lyon,3hr3min,TGV Lyria 9210,3:13PM,Paris Nord,4:39PM,London St-Pancras,2hr26min,Eurostar 9039,$430,$468,$723
+08/03/2014,Basel,London,12:34PM,Basel,3:37PM,Paris Gare Lyon,3hr3min,TGV Lyria 9218,5:13PM,Paris Nord,6:30PM,London St-Pancras,2hr17min,Eurostar 9047,$520,$569,$723
+08/03/2014,Basel,London,2:34PM,Basel,5:37PM,Paris Gare Lyon,3hr3min,Lyria 9222,7:13PM,Paris Nord,8:39PM,London St-Pancras,2hr26min,Eurostar 9055,$430,$468,$723
+07/26/2014,Madrid,London,error
+07/29/2014,Madrid,London,error
+08/03/2014,Madrid,London,error
+07/26/2014,Vienna,London,error
+07/29/2014,Vienna,London,7:30AM,Wien Westbahnhof,3:20PM,Zurich HB,7hr50min,Railjet 160,TRANSFER: 14 min,3:34PM,Zurich HB,7:37PM,Paris Gare Lyon,4hr3min,Lyria 9226,$325,$440,$525
+07/29/2014,Vienna,London,9:00AM,Wien Meidling,5:20PM,Zurich HB,8hr20min,Railjet 162,TRANSFER: 7 min,5:27PM,Zurich HB,9:37PM,Paris Gare Lyon,4hr10min,TGV Lyria 9230,$326,$440,$525
+07/29/2014,Vienna,London,9:30AM,Wien Westbahnhof,5:20PM,Zurich HB,7hr50min,Railjet 162,TRANSFER: 7 min,5:27PM,Zurich HB,9:37PM,Paris Gare Lyon,4hr10min,TGV Lyria 9230,$325,$440,$525
+08/03/2014,Vienna,London,7:30AM,Wien Westbahnhof,3:20PM,Zurich HB,7hr50min,Railjet 160,TRANSFER: 14 min,3:34PM,Zurich HB,7:37PM,Paris Gare Lyon,4hr3min,Lyria 9226,$325,$440,$496
+08/03/2014,Vienna,London,9:00AM,Wien Meidling,5:20PM,Zurich HB,8hr20min,Railjet 162,TRANSFER: 7 min,5:27PM,Zurich HB,9:37PM,Paris Gare Lyon,4hr10min,Lyria 9230,$326,$440,$496
+08/03/2014,Vienna,London,9:30AM,Wien Westbahnhof,5:20PM,Zurich HB,7hr50min,Railjet 162,TRANSFER: 7 min,5:27PM,Zurich HB,9:37PM,Paris Gare Lyon,4hr10min,Lyria 9230,$325,$440,$496
+07/26/2014,London,Helsinki,error
+07/29/2014,London,Helsinki,error
+08/03/2014,London,Helsinki,error
+07/26/2014,Manchester,Amsterdam,error
+07/29/2014,Manchester,Amsterdam,error
+08/03/2014,Manchester,Amsterdam,error
+07/26/2014,Zurich,Frankfurt,error
+07/29/2014,Zurich,Frankfurt,8:00AM,Zurich HB,11:53AM,Frankfurt Main HB,3hr53min,Inter City Express 76,$169,$271
+07/29/2014,Zurich,Frankfurt,8:30AM,Zurich HB,9:00AM,Olten,0hr30min,Train 2112,9:32AM,Olten,1:08PM,Frankfurt Main HB,3hr36min,Inter City Express 370,$182,$294
+07/29/2014,Zurich,Frankfurt,8:34AM,Zurich HB,9:27AM,Basel,0hr53min,Train 562,10:13AM,Basel,1:08PM,Frankfurt Main HB,2hr55min,Inter City Express 370,$182,$284
+07/29/2014,Zurich,Frankfurt,9:00AM,Zurich HB,9:53AM,Basel,0hr53min,Train 768,TRANSFER: 20 min,10:13AM,Basel,1:08PM,Frankfurt Main HB,2hr55min,Inter City Express 370,$182,$284
+07/29/2014,Zurich,Frankfurt,9:05AM,Zurich HB,12:10PM,Stuttgart HBF,3hr5min,Train 282,12:51PM,Stuttgart HBF,2:08PM,Frankfurt Main HB,1hr17min,Inter City Express 598,$194,$300
+08/03/2014,Zurich,Frankfurt,8:00AM,Zurich HB,11:53AM,Frankfurt Main HB,3hr53min,Inter City Express 76,$169,$271
+08/03/2014,Zurich,Frankfurt,8:30AM,Zurich HB,9:00AM,Olten,0hr30min,Train 2112,9:32AM,Olten,1:08PM,Frankfurt Main HB,3hr36min,Inter City Express 370,$182,$294
+08/03/2014,Zurich,Frankfurt,8:34AM,Zurich HB,9:27AM,Basel,0hr53min,Train 562,10:05AM,Basel,1:08PM,Frankfurt Main HB,3hr3min,Inter City Express 370,$182,$284
+08/03/2014,Zurich,Frankfurt,9:00AM,Zurich HB,9:53AM,Basel,0hr53min,Train 768,TRANSFER: 12 min,10:05AM,Basel,1:08PM,Frankfurt Main HB,3hr3min,Inter City Express 370,$182,$284
+08/03/2014,Zurich,Frankfurt,9:05AM,Zurich HB,12:10PM,Stuttgart HBF,3hr5min,Train 282,12:51PM,Stuttgart HBF,2:08PM,Frankfurt Main HB,1hr17min,Inter City Express 598,$194,$300
+07/26/2014,Zurich,Manchester,error
+07/29/2014,Zurich,Manchester,error
+08/03/2014,Zurich,Manchester,error
+07/26/2014,Oslo,London,error
+07/29/2014,Oslo,London,error
+08/03/2014,Oslo,London,error
+07/26/2014,London,Budapest,error
+07/29/2014,London,Budapest,error
+08/03/2014,London,Budapest,error
+07/26/2014,Zurich,Amsterdam,error
+07/29/2014,Zurich,Amsterdam,error
+08/03/2014,Zurich,Amsterdam,error
+07/26/2014,London,Istanbul,error
+07/29/2014,London,Istanbul,error
+08/03/2014,London,Istanbul,error
+07/26/2014,Stockholm,Frankfurt,error
+07/29/2014,Stockholm,Frankfurt,8:21AM,Stockholm,1:23PM,Copenhagen,5hr2min,SJ High Speed Train 525,TRANSFER: 19 min,1:42PM,Copenhagen,6:16PM,Hamburg HBF,4hr34min,Train 238,TRANSFER: 8 min,6:24PM,Hamburg HBF,10:00PM,Frankfurt Main HB,3hr36min,Inter City Express 1173,$426,$842,$859
+07/29/2014,Stockholm,Frankfurt,8:21AM,Stockholm,1:23PM,Copenhagen,5hr2min,SJ High Speed Train 525,TRANSFER: 19 min,1:42PM,Copenhagen,6:16PM,Hamburg HBF,4hr34min,Train 238,8:01PM,Hamburg HBF,11:55PM,Frankfurt Main HB,3hr54min,Inter City Express 887,$426,$842,$859
+07/29/2014,Stockholm,Frankfurt,12:21PM,Stockholm,5:31PM,Copenhagen,5hr10min,SJ High Speed Train 533,TRANSFER: 11 min,5:42PM,Copenhagen,10:16PM,Hamburg HBF,4hr34min,Train 30,10:46PM,Hamburg HBF,7:02AM,Frankfurt Main HB,8hr16min,Train 2021,$426,$842,$859
+08/03/2014,Stockholm,Frankfurt,8:21AM,Stockholm,1:23PM,Copenhagen,5hr2min,SJ High Speed Train 525,TRANSFER: 19 min,1:42PM,Copenhagen,6:16PM,Hamburg HBF,4hr34min,Train 238,7:24PM,Hamburg HBF,11:00PM,Frankfurt Main HB,3hr36min,Inter City Express 775,$843
+08/03/2014,Stockholm,Frankfurt,10:21AM,Stockholm,3:32PM,Copenhagen,5hr11min,SJ High Speed Train 529,5:42PM,Copenhagen,10:16PM,Hamburg HBF,4hr34min,Train 30,12:25AM,Hamburg HBF,5:29AM,Frankfurt Main HB,5hr4min,Inter City Express 271,$843
+08/03/2014,Stockholm,Frankfurt,12:21PM,Stockholm,5:31PM,Copenhagen,5hr10min,SJ High Speed Train 533,TRANSFER: 11 min,5:42PM,Copenhagen,10:16PM,Hamburg HBF,4hr34min,Train 30,12:29AM,Hamburg HBF,6:40AM,Frankfurt Main HB,6hr11min,City Night Line 473,$954,$954
+08/03/2014,Stockholm,Frankfurt,12:21PM,Stockholm,5:31PM,Copenhagen,5hr10min,SJ High Speed Train 533,TRANSFER: 11 min,5:42PM,Copenhagen,10:16PM,Hamburg HBF,4hr34min,Train 30,12:25AM,Hamburg HBF,5:29AM,Frankfurt Main HB,5hr4min,Inter City Express 271,$843
+07/26/2014,London,Aberdeen,8:30AM,London Euston,10:38AM,Preston,2hr8min,VT604700,TRANSFER: 20 min,10:58AM,Preston,1:20PM,Haymarket,2hr22min,TP822900,TRANSFER: 12 min,1:32PM,Haymarket,3:47PM,Aberdeen,2hr15min,SR030700,$279,$279,$416
+07/26/2014,London,Aberdeen,9:30AM,London King S CRO,5:06PM,Aberdeen,7hr36min,GR618700,$279,$416
+07/26/2014,London,Aberdeen,10:30AM,London Euston,3:01PM,Glasgow Central,4hr31min,VT608700,3:01PM,Glasgow Central,3:01PM,Glasgow Queen STR,0hr0min,Bus,3:41PM,Glasgow Queen STR,6:15PM,Aberdeen,2hr34min,SR021000,$279,$279,$416
+07/26/2014,London,Aberdeen,10:43AM,London Euston,4:16PM,Haymarket,5hr33min,VT306700,TRANSFER: 17 min,4:33PM,Haymarket,6:57PM,Aberdeen,2hr24min,SR030900,$279,$279,$416
+07/26/2014,London,Aberdeen,11:30AM,London Euston,1:38PM,Preston,2hr8min,VT611700,TRANSFER: 15 min,1:53PM,Preston,4:16PM,Haymarket,2hr23min,VT306700,TRANSFER: 17 min,4:33PM,Haymarket,6:57PM,Aberdeen,2hr24min,SR030900,$279,$279,$416
+07/29/2014,London,Aberdeen,error
+08/03/2014,London,Aberdeen,9:00AM,London King S CRO,1:16PM,Edinburgh,4hr16min,GR616100,TRANSFER: 15 min,1:31PM,Edinburgh,2:55PM,Dundee,1hr24min,SR115200,TRANSFER: 18 min,3:13PM,Dundee,4:33PM,Aberdeen,1hr20min,SR025400,$279,$279,$416
+08/03/2014,London,Aberdeen,10:00AM,London King S CRO,5:09PM,Aberdeen,7hr9min,GR620100,$142,$295
+08/03/2014,London,Aberdeen,11:00AM,London King S CRO,3:18PM,Edinburgh,4hr18min,GR624100,TRANSFER: 16 min,3:34PM,Edinburgh,4:55PM,Dundee,1hr21min,SR483800,TRANSFER: 15 min,5:10PM,Dundee,6:25PM,Aberdeen,1hr15min,SR025600,$279,$279,$416
+08/03/2014,London,Aberdeen,11:00AM,London King S CRO,3:18PM,Edinburgh,4hr18min,GR624100,4:05PM,Edinburgh,6:42PM,Aberdeen,2hr37min,SR035900,$279,$279,$242
+08/03/2014,London,Aberdeen,12:00PM,London King S CRO,4:21PM,Edinburgh,4hr21min,GR630100,5:05PM,Edinburgh,7:35PM,Aberdeen,2hr30min,SR035300,$279,$279,$416
+07/26/2014,London,Edinburgh,error
+07/29/2014,London,Edinburgh,8:00AM,London King S CRO,12:22PM,Edinburgh,4hr22min,GR612000,$162,$390
+07/29/2014,London,Edinburgh,8:43AM,London Euston,2:22PM,Edinburgh,5hr39min,VT304000,$232,$344
+07/29/2014,London,Edinburgh,9:00AM,London King S CRO,1:22PM,Edinburgh,4hr22min,GR616000,$162,$187
+07/29/2014,London,Edinburgh,9:30AM,London King S CRO,2:15PM,Edinburgh,4hr45min,GR618000,$121,$187
+07/29/2014,London,Edinburgh,10:00AM,London King S CRO,2:22PM,Edinburgh,4hr22min,GR620000,$121,$281
+08/03/2014,London,Edinburgh,9:00AM,London King S CRO,1:16PM,Edinburgh,4hr16min,GR616100,$121,$187
+08/03/2014,London,Edinburgh,9:30AM,London King S CRO,2:18PM,Edinburgh,4hr48min,GR618100,$121,$187
+08/03/2014,London,Edinburgh,10:00AM,London King S CRO,2:21PM,Edinburgh,4hr21min,GR620100,$121,$230
+08/03/2014,London,Edinburgh,10:20AM,London King S CRO,12:20PM,York,2hr0min,GR621100,TRANSFER: 9 min,12:29PM,York,2:56PM,Edinburgh,2hr27min,XC108100,$236,$281
+08/03/2014,London,Edinburgh,10:30AM,London King S CRO,3:08PM,Edinburgh,4hr38min,GR622100,$121,$230
+07/26/2014,London,Belfast,error
+07/29/2014,London,Belfast,error
+08/03/2014,London,Belfast,error
+07/26/2014,London,London,error
+07/29/2014,London,London,error
+08/03/2014,London,London,error
+07/26/2014,Birmingham,Belfast,error
+07/29/2014,Birmingham,Belfast,error
+08/03/2014,Birmingham,Belfast,error
+07/26/2014,Manchester,London,8:15AM,Manchester Picc,10:24AM,London Euston,2hr9min,VT758700,$131,$100
+07/26/2014,Manchester,London,8:35AM,Manchester Picc,10:43AM,London Euston,2hr8min,VT759700,$131,$100
+07/26/2014,Manchester,London,8:55AM,Manchester Picc,11:08AM,London Euston,2hr13min,VT760700,$131,$127
+07/26/2014,Manchester,London,9:15AM,Manchester Picc,11:24AM,London Euston,2hr9min,VT761700,$67,$100
+07/26/2014,Manchester,London,9:35AM,Manchester Picc,11:43AM,London Euston,2hr8min,VT762700,$131,$100
+07/29/2014,Manchester,London,8:15AM,Manchester Picc,10:24AM,London Euston,2hr9min,VT755000,$212,$262
+07/29/2014,Manchester,London,8:35AM,Manchester Picc,10:43AM,London Euston,2hr8min,VT755500,$212,$262
+07/29/2014,Manchester,London,8:55AM,Manchester Picc,11:08AM,London Euston,2hr13min,VT756000,$212,$262
+07/29/2014,Manchester,London,9:15AM,Manchester Picc,11:24AM,London Euston,2hr9min,VT756500,$212,$262
+07/29/2014,Manchester,London,9:35AM,Manchester Picc,11:43AM,London Euston,2hr8min,VT757000,$148,$166
+08/03/2014,Manchester,London,8:05AM,Manchester Picc,10:58AM,London Euston,2hr53min,VT750100,$67,$100
+08/03/2014,Manchester,London,8:20AM,Manchester Picc,11:02AM,London Euston,2hr42min,VT751100,$67,$100
+08/03/2014,Manchester,London,8:27AM,Manchester Picc,9:01AM,Crewe,0hr34min,XC358100,TRANSFER: 12 min,9:13AM,Crewe,11:37AM,London Euston,2hr24min,VT853100,$71,$103
+08/03/2014,Manchester,London,9:20AM,Manchester Picc,12:09PM,London Euston,2hr49min,VT752100,$67,$100
+08/03/2014,Manchester,London,9:27AM,Manchester Picc,10:26AM,Stafford,0hr59min,XC360100,TRANSFER: 8 min,10:34AM,Stafford,12:32PM,London Euston,1hr58min,VT856100,$71,$169
+07/26/2014,Newcastle,London,8:03AM,Newcastle,11:45AM,London King S CRO,3hr42min,GR514700,$116,$184
+07/26/2014,Newcastle,London,9:00AM,Newcastle,9:57AM,York,0hr57min,GR518700,TRANSFER: 15 min,10:12AM,York,12:22PM,London King S CRO,2hr10min,GC852700,$227,$227,$391
+07/26/2014,Newcastle,London,9:00AM,Newcastle,12:56PM,London King S CRO,3hr56min,GR518700,$116,$227
+07/26/2014,Newcastle,London,9:10AM,Newcastle,10:39AM,Leeds,1hr29min,TP561300,TRANSFER: 26 min,11:05AM,Leeds,1:29PM,London King S CRO,2hr24min,GR134700,$227,$391,$391
+07/26/2014,Newcastle,London,9:35AM,Newcastle,11:20AM,Sheffield,1hr45min,XC262700,TRANSFER: 9 min,11:29AM,Sheffield,1:30PM,London St Pancras,2hr1min,EM124000,$227,$391
+07/29/2014,Newcastle,London,8:25AM,Newcastle,11:42AM,London King S CRO,3hr17min,GR516000,$221,$389
+07/29/2014,Newcastle,London,8:59AM,Newcastle,11:51AM,London King S CRO,2hr52min,GR518000,$116,$332
+07/29/2014,Newcastle,London,9:10AM,Newcastle,10:14AM,York,1hr4min,TP511300,TRANSFER: 13 min,10:27AM,York,12:30PM,London King S CRO,2hr3min,GC852000,$227,$391
+07/29/2014,Newcastle,London,9:30AM,Newcastle,12:43PM,London King S CRO,3hr13min,GR522000,$116,$227
+07/29/2014,Newcastle,London,10:00AM,Newcastle,12:51PM,London King S CRO,2hr51min,GR524000,$116,$227
+08/03/2014,Newcastle,London,8:50AM,Newcastle,11:55AM,London King S CRO,3hr5min,GR518100,$116,$149
+08/03/2014,Newcastle,London,9:25AM,Newcastle,12:42PM,London King S CRO,3hr17min,GR322100,$116,$149
+08/03/2014,Newcastle,London,9:35AM,Newcastle,10:31AM,York,0hr56min,XC163100,TRANSFER: 21 min,10:52AM,York,12:43PM,London King S CRO,1hr51min,GC850100,$227,$227,$391
+08/03/2014,Newcastle,London,10:00AM,Newcastle,12:55PM,London King S CRO,2hr55min,GR324100,$116,$149
+08/03/2014,Newcastle,London,10:29AM,Newcastle,1:42PM,London King S CRO,3hr13min,GR526100,$116,$184
+07/26/2014,Edinburgh,Aberdeen,8:28AM,Edinburgh,10:54AM,Aberdeen,2hr26min,SR030300,$63,$143
+07/26/2014,Edinburgh,Aberdeen,9:28AM,Edinburgh,11:51AM,Aberdeen,2hr23min,SR030400,$63,$143
+07/26/2014,Edinburgh,Aberdeen,10:28AM,Edinburgh,1:03PM,Aberdeen,2hr35min,GR604700,$37,$49
+07/26/2014,Edinburgh,Aberdeen,11:28AM,Edinburgh,1:50PM,Aberdeen,2hr22min,SR030500,$63,$143
+07/29/2014,Edinburgh,Aberdeen,8:28AM,Edinburgh,10:54AM,Aberdeen,2hr26min,SR030300,$46,$143
+07/29/2014,Edinburgh,Aberdeen,9:29AM,Edinburgh,11:46AM,Aberdeen,2hr17min,SR030400,$46,$143
+07/29/2014,Edinburgh,Aberdeen,10:28AM,Edinburgh,1:03PM,Aberdeen,2hr35min,GR604000,$25,$43
+07/29/2014,Edinburgh,Aberdeen,11:28AM,Edinburgh,1:50PM,Aberdeen,2hr22min,SR030500,$46,$143
+08/03/2014,Edinburgh,Aberdeen,8:04AM,Edinburgh,10:29AM,Aberdeen,2hr25min,XC143100,$61,$118
+08/03/2014,Edinburgh,Aberdeen,9:10AM,Edinburgh,11:47AM,Aberdeen,2hr37min,GR600100,$25,$43
+08/03/2014,Edinburgh,Aberdeen,9:15AM,Edinburgh,12:05PM,Aberdeen,2hr50min,SR036000,$46,$143
+08/03/2014,Edinburgh,Aberdeen,10:50AM,Edinburgh,1:20PM,Aberdeen,2hr30min,SR035102,$63,$143
+08/03/2014,Edinburgh,Aberdeen,11:34AM,Edinburgh,12:55PM,Dundee,1hr21min,SR115100,TRANSFER: 15 min,1:10PM,Dundee,2:22PM,Aberdeen,1hr12min,SR025200,$63,$143
+07/26/2014,London,Leeds,error
+07/29/2014,London,Leeds,8:03AM,London King S CRO,10:16AM,Leeds,2hr13min,GR208000,$93,$161
+07/29/2014,London,Leeds,8:35AM,London King S CRO,10:48AM,Leeds,2hr13min,GR210000,$74,$128
+07/29/2014,London,Leeds,9:03AM,London King S CRO,11:16AM,Leeds,2hr13min,GR212000,$74,$128
+07/29/2014,London,Leeds,9:35AM,London King S CRO,11:48AM,Leeds,2hr13min,GR214000,$58,$92
+07/29/2014,London,Leeds,10:03AM,London King S CRO,12:16PM,Leeds,2hr13min,GR216000,$58,$92
+08/03/2014,London,Leeds,9:03AM,London King S CRO,11:26AM,Leeds,2hr23min,GR212100,$58,$92
+08/03/2014,London,Leeds,9:30AM,London King S CRO,11:32AM,York,2hr2min,GR618100,TRANSFER: 9 min,11:41AM,York,12:05PM,Leeds,0hr24min,XC165100,$93,$243
+08/03/2014,London,Leeds,9:48AM,London King S CRO,11:36AM,York,1hr48min,GC800100,TRANSFER: 9 min,11:45AM,York,12:08PM,Leeds,0hr23min,TP120900,$182,$342
+08/03/2014,London,Leeds,10:03AM,London King S CRO,12:21PM,Leeds,2hr18min,GR216100,$58,$128
+08/03/2014,London,Leeds,10:30AM,London King S CRO,12:31PM,York,2hr1min,GR622100,TRANSFER: 10 min,12:41PM,York,1:04PM,Leeds,0hr23min,XC167100,$93,$243
+07/26/2014,London,Bradford,8:03AM,London King S CRO,10:24AM,Leeds,2hr21min,GR208700,TRANSFER: 11 min,10:35AM,Leeds,10:55AM,Bradford Intercha,0hr20min,NT266000,$75,$75,$131
+07/26/2014,London,Bradford,9:03AM,London King S CRO,11:25AM,Leeds,2hr22min,GR212700,TRANSFER: 10 min,11:35AM,Leeds,11:55AM,Bradford Intercha,0hr20min,NT266200,$95,$95,$131
+07/26/2014,London,Bradford,9:30AM,London King S CRO,11:04AM,Doncaster,1hr34min,GR618700,TRANSFER: 22 min,11:26AM,Doncaster,12:14PM,Leeds,0hr48min,NT897400,TRANSFER: 21 min,12:35PM,Leeds,12:55PM,Bradford Intercha,0hr20min,NT266500,$95,$95,$345
+07/29/2014,London,Bradford,8:03AM,London King S CRO,10:16AM,Leeds,2hr13min,GR208000,TRANSFER: 10 min,10:26AM,Leeds,10:37AM,Shipley,0hr11min,NT500800,TRANSFER: 7 min,10:44AM,Shipley,10:53AM,Bradford Forster SQU,0hr9min,NT442300,$95,$95,$162
+07/29/2014,London,Bradford,8:03AM,London King S CRO,10:16AM,Leeds,2hr13min,GR208000,TRANSFER: 19 min,10:35AM,Leeds,10:55AM,Bradford Intercha,0hr20min,NT697200,$95,$95,$162
+07/29/2014,London,Bradford,8:35AM,London King S CRO,10:48AM,Leeds,2hr13min,GR210000,TRANSFER: 17 min,11:05AM,Leeds,11:24AM,Bradford Intercha,0hr19min,NT341200,$75,$75,$131
+07/29/2014,London,Bradford,9:03AM,London King S CRO,11:16AM,Leeds,2hr13min,GR212000,TRANSFER: 10 min,11:26AM,Leeds,11:38AM,Shipley,0hr12min,NT502300,TRANSFER: 6 min,11:44AM,Shipley,11:53AM,Bradford Forster SQU,0hr9min,NT443700,$75,$75,$131
+07/29/2014,London,Bradford,9:03AM,London King S CRO,11:16AM,Leeds,2hr13min,GR212000,TRANSFER: 19 min,11:35AM,Leeds,11:55AM,Bradford Intercha,0hr20min,NT697400,$75,$75,$131
+08/03/2014,London,Bradford,9:03AM,London King S CRO,11:26AM,Leeds,2hr23min,GR212100,TRANSFER: 15 min,11:41AM,Leeds,12:01PM,Bradford Forster SQU,0hr20min,NT308800,$58,$58,$93
+08/03/2014,London,Bradford,9:48AM,London King S CRO,11:36AM,York,1hr48min,GC800100,TRANSFER: 9 min,11:45AM,York,12:08PM,Leeds,0hr23min,TP120900,TRANSFER: 17 min,12:25PM,Leeds,12:45PM,Bradford Intercha,0hr20min,NT329600,$185,$345
+08/03/2014,London,Bradford,10:03AM,London King S CRO,12:21PM,Leeds,2hr18min,GR216100,TRANSFER: 20 min,12:41PM,Leeds,1:01PM,Bradford Forster SQU,0hr20min,NT309000,$58,$58,$131
+08/03/2014,London,Bradford,10:30AM,London King S CRO,12:31PM,York,2hr1min,GR622100,TRANSFER: 10 min,12:41PM,York,1:04PM,Leeds,0hr23min,XC167100,TRANSFER: 21 min,1:25PM,Leeds,1:45PM,Bradford Intercha,0hr20min,NT320000,$95,$95,$245
+08/03/2014,London,Bradford,11:03AM,London King S CRO,1:25PM,Leeds,2hr22min,GR222100,TRANSFER: 16 min,1:41PM,Leeds,2:01PM,Bradford Forster SQU,0hr20min,NT309200,$75,$75,$131
+07/26/2014,Bristol,Aberdeen,8:30AM,Bristol Temple ME,9:55AM,Birmingham New ST,1hr25min,XC108700,TRANSFER: 20 min,10:15AM,Birmingham New ST,2:15PM,Haymarket,4hr0min,VT302700,TRANSFER: 18 min,2:33PM,Haymarket,5:06PM,Aberdeen,2hr33min,GR618700,$373,$865
+07/26/2014,Bristol,Aberdeen,8:30AM,Bristol Temple ME,3:04PM,Edinburgh,6hr34min,XC108700,TRANSFER: 24 min,3:28PM,Edinburgh,5:53PM,Aberdeen,2hr25min,SR030800,$373,$373,$865
+07/26/2014,Bristol,Aberdeen,9:30AM,Bristol Temple ME,4:04PM,Edinburgh,6hr34min,XC110700,TRANSFER: 24 min,4:28PM,Edinburgh,6:57PM,Aberdeen,2hr29min,SR030900,$373,$373,$865
+07/26/2014,Bristol,Aberdeen,10:30AM,Bristol Temple ME,11:55AM,Birmingham New ST,1hr25min,XC112700,TRANSFER: 20 min,12:15PM,Birmingham New ST,4:16PM,Haymarket,4hr1min,VT306700,TRANSFER: 17 min,4:33PM,Haymarket,6:57PM,Aberdeen,2hr24min,SR030900,$373,$373,$865
+07/29/2014,Bristol,Aberdeen,error
+08/03/2014,Bristol,Aberdeen,9:03AM,Bristol Temple ME,4:02PM,Edinburgh,6hr59min,XC113100,5:05PM,Edinburgh,7:35PM,Aberdeen,2hr30min,SR035300,$373,$373,$865
+08/03/2014,Bristol,Aberdeen,10:02AM,Bristol Temple ME,11:41AM,Birmingham New ST,1hr39min,XC115100,12:20PM,Birmingham New ST,4:19PM,Edinburgh,3hr59min,VT105100,5:05PM,Edinburgh,7:35PM,Aberdeen,2hr30min,SR035300,$373,$373,$865
+08/03/2014,Bristol,Aberdeen,10:30AM,Bristol Temple ME,8:42PM,Aberdeen,10hr12min,XC114100,$182,$459
+07/26/2014,Humberside,Aberdeen,error
+07/29/2014,Humberside,Aberdeen,error
+08/03/2014,Humberside,Aberdeen,error
+07/26/2014,Edinburgh,Cardiff,8:52AM,Edinburgh,11:58AM,Crewe,3hr6min,VT360700,TRANSFER: 10 min,12:08PM,Crewe,2:53PM,Cardiff Central,2hr45min,AW113900,$312,$312,$705
+07/26/2014,Edinburgh,Cardiff,9:08AM,Edinburgh,2:04PM,Birmingham New ST,4hr56min,XC165700,TRANSFER: 26 min,2:30PM,Birmingham New ST,4:25PM,Cardiff Central,1hr55min,XC568700,$244,$364
+07/26/2014,Edinburgh,Cardiff,10:52AM,Edinburgh,1:58PM,Crewe,3hr6min,VT364700,TRANSFER: 10 min,2:08PM,Crewe,4:53PM,Cardiff Central,2hr45min,AW114100,$312,$312,$705
+07/29/2014,Edinburgh,Cardiff,error
+08/03/2014,Edinburgh,Cardiff,10:51AM,Edinburgh,1:59PM,Crewe,3hr8min,VT350100,TRANSFER: 14 min,2:13PM,Crewe,4:52PM,Cardiff Central,2hr39min,AW123300,$312,$312,$705
+07/26/2014,Nottingham,Glasgow,8:17AM,Nottingham,8:54AM,Chesterfield,0hr37min,NT798100,TRANSFER: 9 min,9:03AM,Chesterfield,1:04PM,Edinburgh,4hr1min,XC104700,TRANSFER: 11 min,1:15PM,Edinburgh,2:07PM,Glasgow Queen STR,0hr52min,SR371500,$195,$353,$353
+07/26/2014,Nottingham,Glasgow,8:17AM,Nottingham,8:54AM,Chesterfield,0hr37min,NT798100,TRANSFER: 9 min,9:03AM,Chesterfield,2:12PM,Glasgow Central,5hr9min,XC104700,$195,$353,$353
+07/26/2014,Nottingham,Glasgow,8:48AM,Nottingham,10:36AM,Manchester Picc,1hr48min,EM926200,11:16AM,Manchester Picc,2:29PM,Glasgow Central,3hr13min,TP823300,$219,$353
+07/26/2014,Nottingham,Glasgow,9:47AM,Nottingham,11:57AM,Warrington Centra,2hr10min,EM926600,11:57AM,Warrington Centra,11:57AM,Warrington Bank Quay,0hr0min,12:27PM,Warrington Bank Quay,3:17PM,Glasgow Central,2hr50min,VT304700,$219,$353,$353
+07/26/2014,Nottingham,Glasgow,10:17AM,Nottingham,10:54AM,Chesterfield,0hr37min,NT800900,TRANSFER: 9 min,11:03AM,Chesterfield,3:04PM,Edinburgh,4hr1min,XC108700,TRANSFER: 10 min,3:14PM,Edinburgh,4:06PM,Glasgow Queen STR,0hr52min,SR370000,$217,$353,$353
+07/29/2014,Nottingham,Glasgow,8:18AM,Nottingham,8:54AM,Chesterfield,0hr36min,NT356200,TRANSFER: 9 min,9:03AM,Chesterfield,1:05PM,Edinburgh,4hr2min,XC104000,TRANSFER: 10 min,1:15PM,Edinburgh,2:07PM,Glasgow Queen STR,0hr52min,SR662700,$217,$353,$353
+07/29/2014,Nottingham,Glasgow,8:18AM,Nottingham,8:54AM,Chesterfield,0hr36min,NT356200,TRANSFER: 9 min,9:03AM,Chesterfield,2:12PM,Glasgow Central,5hr9min,XC104000,$217,$353,$353
+07/29/2014,Nottingham,Glasgow,8:47AM,Nottingham,10:36AM,Manchester Picc,1hr49min,EM926200,11:16AM,Manchester Picc,2:29PM,Glasgow Central,3hr13min,TP802900,$219,$353
+07/29/2014,Nottingham,Glasgow,9:47AM,Nottingham,11:57AM,Warrington Centra,2hr10min,EM926600,11:57AM,Warrington Centra,11:57AM,Warrington Bank Quay,0hr0min,12:27PM,Warrington Bank Quay,3:17PM,Glasgow Central,2hr50min,VT306000,$219,$353,$353
+07/29/2014,Nottingham,Glasgow,10:17AM,Nottingham,10:54AM,Chesterfield,0hr37min,NT100100,TRANSFER: 9 min,11:03AM,Chesterfield,3:14PM,Haymarket,4hr11min,XC108000,TRANSFER: 5 min,3:19PM,Haymarket,4:06PM,Glasgow Queen STR,0hr47min,SR658600,$118,$353,$353
+08/03/2014,Nottingham,Glasgow,9:47AM,Nottingham,11:58AM,Warrington Centra,2hr11min,EM926600,11:58AM,Warrington Centra,11:58AM,Warrington Bank Quay,0hr0min,TRANSFER: 29 min,12:27PM,Warrington Bank Quay,3:16PM,Glasgow Central,2hr49min,VT104100,$219,$107,$107
+08/03/2014,Nottingham,Glasgow,10:12AM,Nottingham,10:54AM,Chesterfield,0hr42min,NT174400,TRANSFER: 9 min,11:03AM,Chesterfield,4:13PM,Glasgow Central,5hr10min,XC108100,$219,$353,$353
+08/03/2014,Nottingham,Glasgow,10:48AM,Nottingham,12:37PM,Manchester Picc,1hr49min,EM927000,1:16PM,Manchester Picc,4:28PM,Glasgow Central,3hr12min,TP442300,$219,$353
+08/03/2014,Nottingham,Glasgow,11:44AM,Nottingham,1:58PM,Warrington Centra,2hr14min,EM927400,1:58PM,Warrington Centra,1:58PM,Warrington Bank Quay,0hr0min,TRANSFER: 29 min,2:27PM,Warrington Bank Quay,5:17PM,Glasgow Central,2hr50min,VT106100,$219,$190,$190
+07/26/2014,Manchester,Aberdeen,8:46AM,Manchester Picc,9:44AM,Preston,0hr58min,TP721900,TRANSFER: 9 min,9:53AM,Preston,12:16PM,Haymarket,2hr23min,VT104700,TRANSFER: 16 min,12:32PM,Haymarket,2:50PM,Aberdeen,2hr18min,SR030600,$200,$354,$354
+07/26/2014,Manchester,Aberdeen,10:16AM,Manchester Picc,1:20PM,Haymarket,3hr4min,TP822900,TRANSFER: 12 min,1:32PM,Haymarket,3:47PM,Aberdeen,2hr15min,SR030700,$200,$354
+07/26/2014,Manchester,Aberdeen,10:26AM,Manchester Picc,11:40AM,York,1hr14min,TP581600,TRANSFER: 14 min,11:54AM,York,5:06PM,Aberdeen,5hr12min,GR618700,$260,$378,$378
+07/26/2014,Manchester,Aberdeen,10:57AM,Manchester Picc,12:12PM,York,1hr15min,TP552400,TRANSFER: 20 min,12:32PM,York,3:04PM,Edinburgh,2hr32min,XC108700,TRANSFER: 24 min,3:28PM,Edinburgh,5:53PM,Aberdeen,2hr25min,SR030800,$260,$378,$378
+07/29/2014,Manchester,Aberdeen,10:16AM,Manchester Picc,1:20PM,Haymarket,3hr4min,TP802500,TRANSFER: 12 min,1:32PM,Haymarket,3:47PM,Aberdeen,2hr15min,SR030700,$200,$354
+07/29/2014,Manchester,Aberdeen,10:26AM,Manchester Picc,11:40AM,York,1hr14min,TP532000,TRANSFER: 14 min,11:54AM,York,5:06PM,Aberdeen,5hr12min,GR620000,$260,$378,$378
+07/29/2014,Manchester,Aberdeen,10:46AM,Manchester Picc,11:35AM,Preston,0hr49min,TP702700,TRANSFER: 18 min,11:53AM,Preston,2:15PM,Haymarket,2hr22min,VT304000,TRANSFER: 18 min,2:33PM,Haymarket,5:06PM,Aberdeen,2hr33min,GR620000,$200,$354,$354
+07/29/2014,Manchester,Aberdeen,10:57AM,Manchester Picc,12:12PM,York,1hr15min,TP501600,TRANSFER: 20 min,12:32PM,York,3:07PM,Edinburgh,2hr35min,XC108000,TRANSFER: 21 min,3:28PM,Edinburgh,5:53PM,Aberdeen,2hr25min,SR030800,$260,$378,$378
+08/03/2014,Manchester,Aberdeen,9:16AM,Manchester Picc,12:29PM,Haymarket,3hr13min,TP440500,TRANSFER: 15 min,12:44PM,Haymarket,3:05PM,Aberdeen,2hr21min,SR035200,$200,$354
+08/03/2014,Manchester,Aberdeen,10:06AM,Manchester Oxford,11:39AM,York,1hr33min,TP121200,TRANSFER: 13 min,11:52AM,York,5:09PM,Aberdeen,5hr17min,GR620100,$260,$378,$378
+08/03/2014,Manchester,Aberdeen,10:46AM,Manchester Picc,11:45AM,Preston,0hr59min,TP341500,TRANSFER: 8 min,11:53AM,Preston,2:19PM,Edinburgh,2hr26min,VT102100,TRANSFER: 14 min,2:33PM,Edinburgh,5:09PM,Aberdeen,2hr36min,GR620100,$200,$354,$354
+07/26/2014,Norwich,London,8:00AM,Norwich,9:55AM,London Liverpool,1hr55min,LE021500,$60,$49
+07/26/2014,Norwich,London,8:30AM,Norwich,10:19AM,London Liverpool,1hr49min,LE021600,$46,$62
+07/26/2014,Norwich,London,9:00AM,Norwich,10:55AM,London Liverpool,1hr55min,LE021700,$60,$62
+07/26/2014,Norwich,London,9:30AM,Norwich,11:19AM,London Liverpool,1hr49min,LE021800,$46,$62
+07/26/2014,Norwich,London,10:00AM,Norwich,11:55AM,London Liverpool,1hr55min,LE021900,$60,$62
+07/29/2014,Norwich,London,8:00AM,Norwich,9:56AM,London Liverpool,1hr56min,LE021500,$60,$87
+07/29/2014,Norwich,London,8:30AM,Norwich,10:19AM,London Liverpool,1hr49min,LE021600,$60,$62
+07/29/2014,Norwich,London,9:00AM,Norwich,10:55AM,London Liverpool,1hr55min,LE021700,$60,$62
+07/29/2014,Norwich,London,9:30AM,Norwich,11:19AM,London Liverpool,1hr49min,LE021800,$46,$49
+07/29/2014,Norwich,London,10:00AM,Norwich,11:55AM,London Liverpool,1hr55min,LE021900,$46,$49
+08/03/2014,Norwich,London,8:00AM,Norwich,10:03AM,London Liverpool,2hr3min,LE021500,$33,$49
+08/03/2014,Norwich,London,9:00AM,Norwich,11:03AM,London Liverpool,2hr3min,LE021700,$46,$62
+08/03/2014,Norwich,London,9:03AM,Norwich,10:22AM,Cambridge,1hr19min,LE610900,TRANSFER: 6 min,10:28AM,Cambridge,11:30AM,London King S CRO,1hr2min,FC225900,$93,$193
+08/03/2014,Norwich,London,10:00AM,Norwich,12:03PM,London Liverpool,2hr3min,LE021900,$46,$62
+08/03/2014,Norwich,London,10:03AM,Norwich,11:23AM,Cambridge,1hr20min,LE611000,TRANSFER: 5 min,11:28AM,Cambridge,12:29PM,London King S CRO,1hr1min,FC226900,$93,$193
+07/26/2014,Leeds,Bradford,8:08AM,Leeds,8:26AM,Bradford Intercha,0hr18min,NT720800,$7
+07/26/2014,Leeds,Bradford,8:10AM,Leeds,8:31AM,Bradford Forster SQU,0hr21min,NT221800,$7
+07/26/2014,Leeds,Bradford,8:18AM,Leeds,8:38AM,Bradford Intercha,0hr20min,NT194900,$7
+07/26/2014,Leeds,Bradford,8:25AM,Leeds,8:36AM,Shipley,0hr11min,NT089200,TRANSFER: 8 min,8:44AM,Shipley,8:53AM,Bradford Forster SQU,0hr9min,NT928100,$7
+07/26/2014,Leeds,Bradford,8:35AM,Leeds,8:57AM,Bradford Intercha,0hr22min,NT265300,$7
+07/29/2014,Leeds,Bradford,8:05AM,Leeds,8:24AM,Bradford Intercha,0hr19min,NT340400,$7
+07/29/2014,Leeds,Bradford,8:10AM,Leeds,8:31AM,Bradford Forster SQU,0hr21min,NT630000,$7
+07/29/2014,Leeds,Bradford,8:20AM,Leeds,8:40AM,Bradford Intercha,0hr20min,NT569900,$7
+07/29/2014,Leeds,Bradford,8:35AM,Leeds,8:55AM,Bradford Intercha,0hr20min,NT696700,$7
+07/29/2014,Leeds,Bradford,8:40AM,Leeds,9:00AM,Bradford Forster SQU,0hr20min,NT630300,$7
+08/03/2014,Leeds,Bradford,7:59AM,Leeds,8:21AM,Bradford Intercha,0hr22min,NT319700,$7
+08/03/2014,Leeds,Bradford,8:18AM,Leeds,8:38AM,Bradford Intercha,0hr20min,NT296000,$7
+08/03/2014,Leeds,Bradford,8:34AM,Leeds,8:54AM,Bradford Forster SQU,0hr20min,NT308200,$7
+08/03/2014,Leeds,Bradford,8:51AM,Leeds,9:11AM,Bradford Intercha,0hr20min,NT167600,$7
+08/03/2014,Leeds,Bradford,9:08AM,Leeds,9:30AM,Bradford Intercha,0hr22min,NT296100,$7
+07/26/2014,Leeds,Glasgow,8:09AM,Leeds,9:05AM,Manchester Picc,0hr56min,TP550500,TRANSFER: 11 min,9:16AM,Manchester Picc,12:29PM,Glasgow Central,3hr13min,TP822300,$179,$260
+07/26/2014,Leeds,Glasgow,8:20AM,Leeds,8:42AM,York,0hr22min,TP580400,TRANSFER: 13 min,8:55AM,York,11:28AM,Edinburgh,2hr33min,GR606700,TRANSFER: 17 min,11:45AM,Edinburgh,12:37PM,Glasgow Queen STR,0hr52min,SR373800,$88,$260,$260
+07/26/2014,Leeds,Glasgow,8:49AM,Leeds,11:34AM,Carlisle,2hr45min,NT086000,TRANSFER: 13 min,11:47AM,Carlisle,1:01PM,Glasgow Central,1hr14min,VT604700,$81,$198,$198
+07/26/2014,Leeds,Glasgow,9:08AM,Leeds,12:07PM,Edinburgh,2hr59min,XC102700,TRANSFER: 23 min,12:30PM,Edinburgh,1:19PM,Glasgow Queen STR,0hr49min,SR376200,$94,$94,$260
+07/26/2014,Leeds,Glasgow,9:17AM,Leeds,9:40AM,York,0hr23min,TP580800,TRANSFER: 13 min,9:53AM,York,12:42PM,Edinburgh,2hr49min,GR610700,TRANSFER: 18 min,1:00PM,Edinburgh,1:51PM,Glasgow Queen STR,0hr51min,SR369200,$179,$260,$260
+07/29/2014,Leeds,Glasgow,8:17AM,Leeds,10:08AM,Lancaster,1hr51min,NT492900,TRANSFER: 6 min,10:14AM,Lancaster,12:29PM,Glasgow Central,2hr15min,TP802100,$189,$260
+07/29/2014,Leeds,Glasgow,8:20AM,Leeds,8:42AM,York,0hr22min,TP530800,TRANSFER: 13 min,8:55AM,York,11:22AM,Edinburgh,2hr27min,GR606000,TRANSFER: 23 min,11:45AM,Edinburgh,12:37PM,Glasgow Queen STR,0hr52min,SR667900,$189,$260,$260
+07/29/2014,Leeds,Glasgow,8:49AM,Leeds,11:34AM,Carlisle,2hr45min,NT493500,TRANSFER: 13 min,11:47AM,Carlisle,1:01PM,Glasgow Central,1hr14min,VT604000,$42,$87,$87
+07/29/2014,Leeds,Glasgow,9:08AM,Leeds,12:03PM,Edinburgh,2hr55min,XC102000,TRANSFER: 12 min,12:15PM,Edinburgh,1:06PM,Glasgow Queen STR,0hr51min,SR661000,$181,$181,$260
+07/29/2014,Leeds,Glasgow,9:17AM,Leeds,9:40AM,York,0hr23min,TP531200,TRANSFER: 13 min,9:53AM,York,12:22PM,Edinburgh,2hr29min,GR612000,TRANSFER: 23 min,12:45PM,Edinburgh,1:37PM,Glasgow Queen STR,0hr52min,SR652900,$189,$260,$260
+08/03/2014,Leeds,Glasgow,9:20AM,Leeds,1:14PM,Glasgow Central,3hr54min,XC102100,$92,$235
+08/03/2014,Leeds,Glasgow,10:08AM,Leeds,2:09PM,Glasgow Central,4hr1min,XC104100,$92,$235
+08/03/2014,Leeds,Glasgow,10:12AM,Leeds,10:36AM,York,0hr24min,TP120400,TRANSFER: 13 min,10:49AM,York,1:16PM,Edinburgh,2hr27min,GR616100,TRANSFER: 14 min,1:30PM,Edinburgh,2:22PM,Glasgow Queen STR,0hr52min,SR326700,$88,$260,$260
+08/03/2014,Leeds,Glasgow,10:57AM,Leeds,12:46PM,Lancaster,1hr49min,NT276900,TRANSFER: 9 min,12:55PM,Lancaster,3:02PM,Glasgow Central,2hr7min,VT604100,$82,$122,$122
+08/03/2014,Leeds,Glasgow,11:20AM,Leeds,1:47PM,Carlisle,2hr27min,NT171700,TRANSFER: 15 min,2:02PM,Carlisle,3:16PM,Glasgow Central,1hr14min,VT104100,$81,$260,$260
+07/26/2014,Norwich,Edinburgh,8:57AM,Norwich,10:21AM,Peterborough,1hr24min,EM927400,11:16AM,Peterborough,3:28PM,Edinburgh,4hr12min,GR622700,$229,$361,$361
+07/26/2014,Norwich,Edinburgh,9:57AM,Norwich,11:19AM,Peterborough,1hr22min,EM927800,12:16PM,Peterborough,4:26PM,Edinburgh,4hr10min,GR628700,$229,$361,$361
+07/26/2014,Norwich,Edinburgh,10:57AM,Norwich,12:22PM,Peterborough,1hr25min,EM928200,1:16PM,Peterborough,3:51PM,Newcastle,2hr35min,GR634700,TRANSFER: 17 min,4:08PM,Newcastle,5:45PM,Edinburgh,1hr37min,GR636900,$229,$361,$361
+07/26/2014,Norwich,Edinburgh,11:57AM,Norwich,1:26PM,Peterborough,1hr29min,EM928600,2:16PM,Peterborough,6:26PM,Edinburgh,4hr10min,GR640700,$229,$361,$361
+07/29/2014,Norwich,Edinburgh,8:57AM,Norwich,10:26AM,Peterborough,1hr29min,EM927400,11:16AM,Peterborough,12:31PM,York,1hr15min,GR422000,TRANSFER: 22 min,12:53PM,York,3:21PM,Edinburgh,2hr28min,GR624000,$257,$361,$361
+07/29/2014,Norwich,Edinburgh,9:57AM,Norwich,11:27AM,Peterborough,1hr30min,EM927800,12:16PM,Peterborough,4:13PM,Edinburgh,3hr57min,GR628000,$229,$361,$361
+07/29/2014,Norwich,Edinburgh,11:57AM,Norwich,1:25PM,Peterborough,1hr28min,EM928600,TRANSFER: 21 min,1:46PM,Peterborough,5:22PM,Edinburgh,3hr36min,GR636000,$229,$361,$361
+08/03/2014,Norwich,Edinburgh,9:39AM,Norwich,11:09AM,Peterborough,1hr30min,EM927800,12:09PM,Peterborough,3:58PM,Edinburgh,3hr49min,GR626100,$229,$361,$361
+08/03/2014,Norwich,Edinburgh,10:03AM,Norwich,11:01AM,ELY,0hr58min,LE611000,TRANSFER: 14 min,11:15AM,ELY,11:51AM,Peterborough,0hr36min,XC665100,TRANSFER: 18 min,12:09PM,Peterborough,3:58PM,Edinburgh,3hr49min,GR626100,$229,$361,$361
+08/03/2014,Norwich,Edinburgh,10:47AM,Norwich,12:11PM,Peterborough,1hr24min,EM928200,1:09PM,Peterborough,2:20PM,York,1hr11min,GR432100,TRANSFER: 9 min,2:29PM,York,4:56PM,Edinburgh,2hr27min,XC115100,$229,$361,$361
+08/03/2014,Norwich,Edinburgh,11:03AM,Norwich,12:03PM,ELY,1hr0min,LE611100,TRANSFER: 12 min,12:15PM,ELY,12:51PM,Peterborough,0hr36min,XC667100,TRANSFER: 25 min,1:16PM,Peterborough,5:09PM,Edinburgh,3hr53min,GR634100,$118,$361,$361
+07/26/2014,Southampton,Glasgow,8:00AM,Southampton,9:20AM,London Waterl DOM,1hr20min,SW922200,9:20AM,London Waterl DOM,9:20AM,London Euston,0hr0min,10:30AM,London Euston,3:01PM,Glasgow Central,4hr31min,VT608700,$298,$560,$560
+07/26/2014,Southampton,Glasgow,8:15AM,Southampton,10:37AM,Birmingham Airport,2hr22min,XC310700,TRANSFER: 16 min,10:53AM,Birmingham Airport,3:17PM,Glasgow Central,4hr24min,VT304700,$263,$366
+07/26/2014,Southampton,Glasgow,9:00AM,Southampton,10:20AM,London Waterl DOM,1hr20min,SW922600,10:20AM,London Waterl DOM,10:20AM,London Euston,0hr0min,11:30AM,London Euston,4:01PM,Glasgow Central,4hr31min,VT611700,$298,$560,$560
+07/29/2014,Southampton,Glasgow,8:00AM,Southampton,9:25AM,London Waterl DOM,1hr25min,SW922202,9:25AM,London Waterl DOM,9:25AM,London Euston,0hr0min,10:30AM,London Euston,3:01PM,Glasgow Central,4hr31min,VT608000,$298,$560,$560
+07/29/2014,Southampton,Glasgow,8:15AM,Southampton,10:37AM,Birmingham Airport,2hr22min,XC310000,TRANSFER: 16 min,10:53AM,Birmingham Airport,3:17PM,Glasgow Central,4hr24min,VT306000,$263,$366
+07/29/2014,Southampton,Glasgow,9:00AM,Southampton,10:23AM,London Waterl DOM,1hr23min,SW922600,10:23AM,London Waterl DOM,10:23AM,London Euston,0hr0min,11:30AM,London Euston,4:01PM,Glasgow Central,4hr31min,VT610000,$298,$560,$560
+08/03/2014,Southampton,Glasgow,9:25AM,Southampton,10:50AM,London Waterl DOM,1hr25min,SW912800,10:50AM,London Waterl DOM,10:50AM,London Euston,0hr0min,12:28PM,London Euston,5:00PM,Glasgow Central,4hr32min,VT609100,$298,$560,$560
+08/03/2014,Southampton,Glasgow,10:15AM,Southampton,12:50PM,Birmingham New ST,2hr35min,XC314100,1:20PM,Birmingham New ST,5:17PM,Glasgow Central,3hr57min,VT106100,$263,$366
+08/03/2014,Southampton,Glasgow,10:25AM,Southampton,11:50AM,London Waterl DOM,1hr25min,SW913200,11:50AM,London Waterl DOM,11:50AM,London Euston,0hr0min,1:28PM,London Euston,6:01PM,Glasgow Central,4hr33min,VT612100,$298,$243,$243
+08/03/2014,Southampton,Glasgow,11:15AM,Southampton,1:37PM,Birmingham Airport,2hr22min,XC316100,TRANSFER: 16 min,1:53PM,Birmingham Airport,4:08PM,Lancaster,2hr15min,VT300100,TRANSFER: 6 min,4:14PM,Lancaster,6:28PM,Glasgow Central,2hr14min,TP443100,$263,$263,$366
+07/26/2014,London,Jersey,error
+07/29/2014,London,Jersey,error
+08/03/2014,London,Jersey,error
+07/26/2014,Leeds,Belfast,error
+07/29/2014,Leeds,Belfast,error
+08/03/2014,Leeds,Belfast,error
+07/26/2014,Manchester,Edinburgh,8:46AM,Manchester Picc,9:44AM,Preston,0hr58min,TP721900,TRANSFER: 9 min,9:53AM,Preston,12:22PM,Edinburgh,2hr29min,VT104700,$121,$239,$239
+07/26/2014,Manchester,Edinburgh,8:57AM,Manchester Picc,10:12AM,York,1hr15min,TP551600,TRANSFER: 20 min,10:32AM,York,1:04PM,Edinburgh,2hr32min,XC104700,$184,$289,$289
+07/26/2014,Manchester,Edinburgh,10:16AM,Manchester Picc,1:26PM,Edinburgh,3hr10min,TP822900,$121,$239
+07/26/2014,Manchester,Edinburgh,10:46AM,Manchester Victoria,11:23AM,Wigan Wallgate,0hr37min,NT966400,11:23AM,Wigan Wallgate,11:23AM,Wigan North Weste,0hr0min,TRANSFER: 15 min,11:38AM,Wigan North Weste,2:22PM,Edinburgh,2hr44min,VT302700,$121,$239,$239
+07/26/2014,Manchester,Edinburgh,10:57AM,Manchester Picc,12:12PM,York,1hr15min,TP552400,TRANSFER: 20 min,12:32PM,York,3:04PM,Edinburgh,2hr32min,XC108700,$184,$289,$289
+07/29/2014,Manchester,Edinburgh,8:44AM,Manchester Victoria,9:23AM,Wigan Wallgate,0hr39min,NT480000,9:23AM,Wigan Wallgate,9:23AM,Wigan North Weste,0hr0min,TRANSFER: 15 min,9:38AM,Wigan North Weste,12:22PM,Edinburgh,2hr44min,VT300000,$65,$174,$174
+07/29/2014,Manchester,Edinburgh,8:57AM,Manchester Picc,10:12AM,York,1hr15min,TP501200,TRANSFER: 20 min,10:32AM,York,1:05PM,Edinburgh,2hr33min,XC104000,$204,$289,$289
+07/29/2014,Manchester,Edinburgh,9:26AM,Manchester Picc,10:40AM,York,1hr14min,TP531600,TRANSFER: 14 min,10:54AM,York,1:22PM,Edinburgh,2hr28min,GR616000,$204,$289,$289
+07/29/2014,Manchester,Edinburgh,10:16AM,Manchester Picc,1:26PM,Edinburgh,3hr10min,TP802500,$121,$239
+07/29/2014,Manchester,Edinburgh,10:46AM,Manchester Picc,11:35AM,Preston,0hr49min,TP702700,TRANSFER: 18 min,11:53AM,Preston,2:22PM,Edinburgh,2hr29min,VT304000,$121,$239,$239
+08/03/2014,Manchester,Edinburgh,9:16AM,Manchester Picc,12:34PM,Edinburgh,3hr18min,TP440500,$57,$101
+08/03/2014,Manchester,Edinburgh,9:57AM,Manchester Picc,11:12AM,York,1hr15min,TP100400,TRANSFER: 17 min,11:29AM,York,1:57PM,Edinburgh,2hr28min,XC106100,$184,$289,$289
+08/03/2014,Manchester,Edinburgh,10:46AM,Manchester Picc,11:45AM,Preston,0hr59min,TP341500,TRANSFER: 8 min,11:53AM,Preston,2:19PM,Edinburgh,2hr26min,VT102100,$121,$239,$239
+08/03/2014,Manchester,Edinburgh,10:57AM,Manchester Picc,12:12PM,York,1hr15min,TP131200,TRANSFER: 17 min,12:29PM,York,2:56PM,Edinburgh,2hr27min,XC108100,$184,$289,$289
+08/03/2014,Manchester,Edinburgh,11:06AM,Manchester Oxford,12:35PM,York,1hr29min,TP121600,TRANSFER: 16 min,12:51PM,York,3:18PM,Edinburgh,2hr27min,GR624100,$184,$289,$289
+07/26/2014,Edinburgh,Belfast,Error
+07/29/2014,Edinburgh,Belfast,Error
+08/03/2014,Edinburgh,Belfast,Error
+07/26/2014,Edinburgh,Bristol,8:05AM,Edinburgh,2:40PM,Bristol Temple ME,6hr35min,XC163700,$246,$169
+07/26/2014,Edinburgh,Bristol,8:52AM,Edinburgh,12:33PM,Wolverhampton,3hr41min,VT360700,TRANSFER: 8 min,12:41PM,Wolverhampton,12:58PM,Birmingham New ST,0hr17min,XC364700,TRANSFER: 14 min,1:12PM,Birmingham New ST,2:40PM,Bristol Temple ME,1hr28min,XC163700,$191,$328
+07/26/2014,Edinburgh,Bristol,8:52AM,Edinburgh,12:33PM,Wolverhampton,3hr41min,VT360700,1:16PM,Wolverhampton,3:09PM,Bristol Temple ME,1hr53min,XC462700,$191,$328
+07/26/2014,Edinburgh,Bristol,9:00AM,Edinburgh,10:24AM,Newcastle,1hr24min,GR526700,TRANSFER: 11 min,10:35AM,Newcastle,1:26PM,Birmingham New ST,2hr51min,XC264700,TRANSFER: 16 min,1:42PM,Birmingham New ST,3:09PM,Bristol Temple ME,1hr27min,XC462700,$240,$484
+07/26/2014,Edinburgh,Bristol,9:08AM,Edinburgh,3:38PM,Bristol Temple ME,6hr30min,XC165700,$246,$169
+07/29/2014,Edinburgh,Bristol,error
+08/03/2014,Edinburgh,Bristol,9:08AM,Edinburgh,4:14PM,Bristol Temple ME,7hr6min,XC165100,$246,$169
+08/03/2014,Edinburgh,Bristol,10:08AM,Edinburgh,5:08PM,Bristol Temple ME,7hr0min,XC167100,$246,$169
+08/03/2014,Edinburgh,Bristol,10:51AM,Edinburgh,2:31PM,Wolverhampton,3hr40min,VT350100,TRANSFER: 10 min,2:41PM,Wolverhampton,2:58PM,Birmingham New ST,0hr17min,XC368100,TRANSFER: 14 min,3:12PM,Birmingham New ST,5:08PM,Bristol Temple ME,1hr56min,XC167100,$306,$328
+08/03/2014,Edinburgh,Bristol,11:05AM,Edinburgh,6:13PM,Bristol Temple ME,7hr8min,XC169100,$246,$169
+08/03/2014,Edinburgh,Bristol,11:30AM,Edinburgh,3:52PM,London King S CRO,4hr22min,GR536100,3:52PM,London King S CRO,3:52PM,London Paddington,0hr0min,5:00PM,London Paddington,7:18PM,Bristol Parkway,2hr18min,GW617500,$178,$178,$331
+07/26/2014,London,Glasgow,8:30AM,London Euston,1:01PM,Glasgow Central,4hr31min,VT604700,$243,$255
+07/26/2014,London,Glasgow,9:30AM,London Euston,2:01PM,Glasgow Central,4hr31min,VT606700,$243,$255
+07/26/2014,London,Glasgow,9:43AM,London Euston,3:17PM,Glasgow Central,5hr34min,VT304700,$243,$290
+07/26/2014,London,Glasgow,10:30AM,London Euston,3:01PM,Glasgow Central,4hr31min,VT608700,$243,$290
+07/26/2014,London,Glasgow,11:30AM,London Euston,4:01PM,Glasgow Central,4hr31min,VT611700,$243,$290
+07/29/2014,London,Glasgow,error
+08/03/2014,London,Glasgow,8:45AM,London Euston,2:02PM,Glasgow Central,5hr17min,VT602100,$144,$147
+08/03/2014,London,Glasgow,9:00AM,London King S CRO,1:16PM,Edinburgh,4hr16min,GR616100,TRANSFER: 14 min,1:30PM,Edinburgh,2:22PM,Glasgow Queen STR,0hr52min,SR326700,$121,$121,$187
+08/03/2014,London,Glasgow,9:45AM,London Euston,3:02PM,Glasgow Central,5hr17min,VT604100,$144,$185
+08/03/2014,London,Glasgow,10:00AM,London King S CRO,2:21PM,Edinburgh,4hr21min,GR620100,TRANSFER: 24 min,2:45PM,Edinburgh,3:42PM,Glasgow Queen STR,0hr57min,SR540500,$121,$121,$230
+08/03/2014,London,Glasgow,10:45AM,London Euston,4:03PM,Glasgow Central,5hr18min,VT607100,$144,$185
+07/26/2014,Rotterdam,London,8:58AM,Rotterdam,10:08AM,Bruxelles Midi,1hr10min,Thalys 9322,10:56AM,Bruxelles Midi,11:57AM,London St-Pancras,2hr1min,Eurostar 9125,$356,$376,$588
+07/26/2014,Rotterdam,London,9:58AM,Rotterdam,12:35PM,Paris Nord,2hr37min,Thalys 9328,1:13PM,Paris Nord,2:39PM,London St-Pancras,2hr26min,Eurostar 9031,$432,$470,$773
+07/26/2014,Rotterdam,London,10:58AM,Rotterdam,1:35PM,Paris Nord,2hr37min,Thalys 9334,2:13PM,Paris Nord,3:30PM,London St-Pancras,2hr17min,Eurostar 9035,$432,$470,$773
+07/26/2014,Rotterdam,London,1:58PM,Rotterdam,4:35PM,Paris Nord,2hr37min,Thalys 9352,5:13PM,Paris Nord,6:30PM,London St-Pancras,2hr17min,Eurostar 9047,$432,$571,$773
+07/26/2014,Rotterdam,London,1:58PM,Rotterdam,3:08PM,Bruxelles Midi,1hr10min,Thalys 9352,4:56PM,Bruxelles Midi,6:09PM,London St-Pancras,2hr13min,Eurostar 9149,$283,$304,$588
+07/29/2014,Rotterdam,London,8:58AM,Rotterdam,10:08AM,Bruxelles Midi,1hr10min,Thalys 9322,10:56AM,Bruxelles Midi,11:57AM,London St-Pancras,2hr1min,Eurostar 9125,$283,$304,$588
+07/29/2014,Rotterdam,London,9:58AM,Rotterdam,11:08AM,Bruxelles Midi,1hr10min,Thalys 9328,12:52PM,Bruxelles Midi,2:03PM,London St-Pancras,2hr11min,Eurostar 9133,$221,$304,$588
+07/29/2014,Rotterdam,London,1:58PM,Rotterdam,3:08PM,Bruxelles Midi,1hr10min,Thalys 9352,3:56PM,Bruxelles Midi,4:57PM,London St-Pancras,2hr1min,Eurostar 9145,$201,$270,$588
+08/03/2014,Rotterdam,London,10:58AM,Rotterdam,1:35PM,Paris Nord,2hr37min,Thalys 9334,2:13PM,Paris Nord,3:30PM,London St-Pancras,2hr17min,Eurostar 9035,$419,$457,$773
+08/03/2014,Rotterdam,London,1:58PM,Rotterdam,3:08PM,Bruxelles Midi,1hr10min,Thalys 9352,3:56PM,Bruxelles Midi,4:57PM,London St-Pancras,2hr1min,Eurostar 9145,$356,$376,$588
